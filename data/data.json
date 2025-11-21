@@ -1,0 +1,3652 @@
+[
+  {
+    "titulo": "The Witcher 3: Wild Hunt",
+    "descricao": "Um RPG de mundo aberto massivo ambientado em um universo de fantasia sombria, onde o jogador assume o papel de Geralt de Rivia, um caçador de monstros profissional.",
+    "desenvolvedora": "CD Projekt Red",
+    "publicadora": "CD Projekt",
+    "dataLancamento": "2015-05-19",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/292030",
+    "generos": [
+      "RPG",
+      "Mundo Aberto",
+      "Ação"
+    ],
+    "metacriticCritics": 93,
+    "metacriticUsers": 9.2,
+    "premios": [
+      {
+        "ano": 2015,
+        "organizacao": "The Game Awards",
+        "titulo": "Jogo do Ano"
+      },
+      {
+        "ano": 2015,
+        "organizacao": "Golden Joystick Awards",
+        "titulo": "Melhor Jogo"
+      }
+    ]
+  },
+  {
+    "titulo": "Red Dead Redemption 2",
+    "descricao": "Uma épica história de honra e lealdade no alvorecer da era moderna, seguindo o fora da lei Arthur Morgan e a gangue Van der Linde.",
+    "desenvolvedora": "Rockstar Games",
+    "publicadora": "Rockstar Games",
+    "dataLancamento": "2019-12-05",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1174180",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Mundo Aberto"
+    ],
+    "metacriticCritics": 93,
+    "metacriticUsers": 8.1,
+    "premios": [
+      {
+        "ano": 2018,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Narrativa"
+      },
+      {
+        "ano": 2018,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Trilha Sonora/Música"
+      }
+    ]
+  },
+  {
+    "titulo": "Elden Ring",
+    "descricao": "Um RPG de ação de fantasia ambientado nas Terras Intermédias, onde os jogadores lutam para se tornar o Elden Lord.",
+    "desenvolvedora": "FromSoftware Inc.",
+    "publicadora": "Bandai Namco Entertainment",
+    "dataLancamento": "2022-02-25",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1245620",
+    "generos": [
+      "RPG",
+      "Ação",
+      "Mundo Aberto"
+    ],
+    "metacriticCritics": 94,
+    "metacriticUsers": 7.8,
+    "premios": [
+      {
+        "ano": 2022,
+        "organizacao": "The Game Awards",
+        "titulo": "Jogo do Ano"
+      },
+      {
+        "ano": 2022,
+        "organizacao": "Golden Joystick Awards",
+        "titulo": "Jogo do Ano Supremo"
+      }
+    ]
+  },
+  {
+    "titulo": "Portal 2",
+    "descricao": "Um jogo de quebra-cabeça em primeira pessoa que expande a jogabilidade do original, introduzindo novos elementos de quebra-cabeça e um modo cooperativo completo.",
+    "desenvolvedora": "Valve Corporation",
+    "publicadora": "Valve Corporation",
+    "dataLancamento": "2011-04-18",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/620",
+    "generos": [
+      "Quebra-Cabeça",
+      "FPS",
+      "Aventura"
+    ],
+    "metacriticCritics": 95,
+    "metacriticUsers": 8.7,
+    "premios": [
+      {
+        "ano": 2011,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Jogo"
+      }
+    ]
+  },
+  {
+    "titulo": "Hades",
+    "descricao": "Um 'rogue-like' de ação onde você desafia o deus dos mortos, Zagreus, enquanto tenta escapar do Submundo.",
+    "desenvolvedora": "Supergiant Games",
+    "publicadora": "Supergiant Games",
+    "dataLancamento": "2020-09-17",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1145360",
+    "generos": [
+      "Roguelike",
+      "Ação",
+      "Indie"
+    ],
+    "metacriticCritics": 93,
+    "metacriticUsers": 8.9,
+    "premios": [
+      {
+        "ano": 2020,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo Indie"
+      },
+      {
+        "ano": 2020,
+        "organizacao": "D.I.C.E. Awards",
+        "titulo": "Jogo de Ação do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Grand Theft Auto V",
+    "descricao": "Um jogo de ação e aventura de mundo aberto que se passa em Los Santos, contando as histórias de três criminosos interconectados.",
+    "desenvolvedora": "Rockstar North",
+    "publicadora": "Rockstar Games",
+    "dataLancamento": "2015-04-14",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/271590",
+    "generos": [
+      "Ação",
+      "Mundo Aberto",
+      "Aventura"
+    ],
+    "metacriticCritics": 96,
+    "metacriticUsers": 7.8,
+    "premios": [
+      {
+        "ano": 2013,
+        "organizacao": "Golden Joystick Awards",
+        "titulo": "Jogo do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Half-Life 2",
+    "descricao": "Um FPS aclamado pela crítica que combina ação e narrativa, usando física inovadora para a época.",
+    "desenvolvedora": "Valve Corporation",
+    "publicadora": "Valve Corporation",
+    "dataLancamento": "2004-11-16",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/220/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/220",
+    "generos": [
+      "FPS",
+      "Ação",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 96,
+    "metacriticUsers": 9.2,
+    "premios": [
+      {
+        "ano": 2004,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Jogo"
+      }
+    ]
+  },
+  {
+    "titulo": "Mass Effect 2",
+    "descricao": "Um RPG de ação e ficção científica onde o Comandante Shepard deve montar uma equipe de elite para impedir a extinção da humanidade.",
+    "desenvolvedora": "BioWare",
+    "publicadora": "Electronic Arts",
+    "dataLancamento": "2010-01-26",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/24980/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/24980",
+    "generos": [
+      "RPG",
+      "Ficção Científica",
+      "Ação"
+    ],
+    "metacriticCritics": 96,
+    "metacriticUsers": 8.9,
+    "premios": [
+      {
+        "ano": 2010,
+        "organizacao": "D.I.C.E. Awards",
+        "titulo": "Jogo do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Disco Elysium - The Final Cut",
+    "descricao": "Um RPG de detetive inovador onde você interpreta um detetive amnésico com um conjunto de habilidades único, explorando a cidade de Revachol.",
+    "desenvolvedora": "ZA/UM",
+    "publicadora": "ZA/UM",
+    "dataLancamento": "2019-10-15",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/632470/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/632470",
+    "generos": [
+      "RPG",
+      "Indie",
+      "Detetive"
+    ],
+    "metacriticCritics": 93,
+    "metacriticUsers": 8.3,
+    "premios": [
+      {
+        "ano": 2019,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Narrativa"
+      },
+      {
+        "ano": 2019,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Jogo de Estreia"
+      }
+    ]
+  },
+  {
+    "titulo": "Doom (2016)",
+    "descricao": "O retorno da franquia clássica, oferecendo combate brutal e rápido contra hordas demoníacas em Marte e no Inferno.",
+    "desenvolvedora": "id Software",
+    "publicadora": "Bethesda Softworks",
+    "dataLancamento": "2016-05-13",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/379720/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/379720",
+    "generos": [
+      "FPS",
+      "Ação"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 8.3,
+    "premios": [
+      {
+        "ano": 2016,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo de Ação"
+      }
+    ]
+  },
+  {
+    "titulo": "Stardew Valley",
+    "descricao": "Um RPG de simulação de fazenda onde você herda uma velha parcela de terra e deve restaurá-la à sua antiga glória.",
+    "desenvolvedora": "ConcernedApe",
+    "publicadora": "ConcernedApe",
+    "dataLancamento": "2016-02-26",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/413150",
+    "generos": [
+      "Simulação",
+      "RPG",
+      "Indie"
+    ],
+    "metacriticCritics": 89,
+    "metacriticUsers": 8.8,
+    "premios": null
+  },
+  {
+    "titulo": "Resident Evil 4 (Remake)",
+    "descricao": "Uma reinvenção do clássico de survival horror, com gráficos atualizados e jogabilidade modernizada, seguindo Leon S. Kennedy em uma missão de resgate na Europa.",
+    "desenvolvedora": "Capcom",
+    "publicadora": "Capcom",
+    "dataLancamento": "2023-03-24",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/2050650",
+    "generos": [
+      "Survival Horror",
+      "Ação",
+      "Terror"
+    ],
+    "metacriticCritics": 93,
+    "metacriticUsers": 8.1,
+    "premios": [
+      {
+        "ano": 2023,
+        "organizacao": "Golden Joystick Awards",
+        "titulo": "Jogo PlayStation do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "BioShock",
+    "descricao": "Um FPS narrativo que se passa na cidade subaquática distópica de Rapture, explorando temas de livre arbítrio e filosofia.",
+    "desenvolvedora": "Irrational Games",
+    "publicadora": "2K Games",
+    "dataLancamento": "2007-08-21",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/7670/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/7670",
+    "generos": [
+      "FPS",
+      "Ação",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 96,
+    "metacriticUsers": 8.7,
+    "premios": [
+      {
+        "ano": 2007,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Jogo"
+      }
+    ]
+  },
+  {
+    "titulo": "Final Fantasy XIV Online",
+    "descricao": "Um MMORPG massivo que se passa no mundo de Eorzea. Notável por sua história profunda e aclamadas expansões.",
+    "desenvolvedora": "Square Enix",
+    "publicadora": "Square Enix",
+    "dataLancamento": "2013-08-27",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/39210/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/39210",
+    "generos": [
+      "MMORPG",
+      "RPG",
+      "Fantasia"
+    ],
+    "metacriticCritics": 83,
+    "metacriticUsers": 8.4,
+    "premios": [
+      {
+        "ano": 2021,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo Contínuo"
+      }
+    ]
+  },
+  {
+    "titulo": "Celeste",
+    "descricao": "Um jogo de plataforma de precisão sobre Madeline subindo o Monte Celeste, enquanto lida com seus demônios internos.",
+    "desenvolvedora": "Maddy Makes Games",
+    "publicadora": "Maddy Makes Games",
+    "dataLancamento": "2018-01-25",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/504230/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/504230",
+    "generos": [
+      "Plataforma",
+      "Indie",
+      "Aventura"
+    ],
+    "metacriticCritics": 92,
+    "metacriticUsers": 8.8,
+    "premios": [
+      {
+        "ano": 2018,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo Indie"
+      }
+    ]
+  },
+  {
+    "titulo": "God of War (2018)",
+    "descricao": "Kratos e seu filho Atreus viajam pelo reino nórdico em uma jornada pessoal, redefinindo a franquia com uma narrativa mais madura.",
+    "desenvolvedora": "Santa Monica Studio",
+    "publicadora": "PlayStation PC LLC",
+    "dataLancamento": "2022-01-14",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1593500",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Mitologia"
+    ],
+    "metacriticCritics": 93,
+    "metacriticUsers": 8.4,
+    "premios": [
+      {
+        "ano": 2018,
+        "organizacao": "The Game Awards",
+        "titulo": "Jogo do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Sid Meier's Civilization VI",
+    "descricao": "Um jogo de estratégia 4X onde os jogadores tentam construir um império capaz de resistir ao teste do tempo.",
+    "desenvolvedora": "Firaxis Games",
+    "publicadora": "2K Games",
+    "dataLancamento": "2016-10-21",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/289070",
+    "generos": [
+      "Estratégia",
+      "4X",
+      "Turn-Based"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 7.3,
+    "premios": [
+      {
+        "ano": 2016,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo de Estratégia"
+      }
+    ]
+  },
+  {
+    "titulo": "Dark Souls: Remastered",
+    "descricao": "Um RPG de ação conhecido por sua dificuldade, design de mundo interconectado e narrativa críptica.",
+    "desenvolvedora": "FromSoftware Inc., QLOC",
+    "publicadora": "Bandai Namco Entertainment",
+    "dataLancamento": "2018-05-24",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/211420/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/211420",
+    "generos": [
+      "RPG",
+      "Ação",
+      "Fantasia Sombria"
+    ],
+    "metacriticCritics": 84,
+    "metacriticUsers": 8,
+    "premios": null
+  },
+  {
+    "titulo": "Hollow Knight",
+    "descricao": "Um jogo de ação e aventura Metroidvania ambientado no vasto e em ruínas reino de Hallownest.",
+    "desenvolvedora": "Team Cherry",
+    "publicadora": "Team Cherry",
+    "dataLancamento": "2017-02-24",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/367520",
+    "generos": [
+      "Metroidvania",
+      "Plataforma",
+      "Indie"
+    ],
+    "metacriticCritics": 90,
+    "metacriticUsers": 8.8,
+    "premios": null
+  },
+  {
+    "titulo": "Limbo",
+    "descricao": "Um jogo de plataforma e quebra-cabeça em 2D, monocromático, conhecido por sua atmosfera sombria e design minimalista.",
+    "desenvolvedora": "Playdead",
+    "publicadora": "Playdead",
+    "dataLancamento": "2011-08-02",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/48000/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/48000",
+    "generos": [
+      "Quebra-Cabeça",
+      "Plataforma",
+      "Indie"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 8.3,
+    "premios": [
+      {
+        "ano": 2010,
+        "organizacao": "Independent Games Festival",
+        "titulo": "Excelência em Arte Visual"
+      }
+    ]
+  },
+  {
+    "titulo": "Outer Wilds",
+    "descricao": "Um mistério de mundo aberto sobre um sistema solar preso em um loop temporal de 22 minutos, onde o jogador deve explorar e descobrir o que está acontecendo.",
+    "desenvolvedora": "Mobius Digital",
+    "publicadora": "Annapurna Interactive",
+    "dataLancamento": "2019-06-18",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/753640/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/753640",
+    "generos": [
+      "Exploração",
+      "Aventura",
+      "Mundo Aberto"
+    ],
+    "metacriticCritics": 85,
+    "metacriticUsers": 8.7,
+    "premios": [
+      {
+        "ano": 2020,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Jogo"
+      }
+    ]
+  },
+  {
+    "titulo": "Control",
+    "descricao": "Um jogo de ação e aventura em terceira pessoa ambientado em um arranha-céu misterioso, onde a Federal Bureau of Control combate uma ameaça paranormal.",
+    "desenvolvedora": "Remedy Entertainment",
+    "publicadora": "505 Games",
+    "dataLancamento": "2019-08-27",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/870780/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/870780",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 85,
+    "metacriticUsers": 7.3,
+    "premios": [
+      {
+        "ano": 2019,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Direção de Arte"
+      }
+    ]
+  },
+  {
+    "titulo": "Sekiro: Shadows Die Twice",
+    "descricao": "Um jogo de ação e aventura focado em combate intenso e mecânicas de postura, ambientado no Japão Sengoku.",
+    "desenvolvedora": "FromSoftware Inc.",
+    "publicadora": "Activision",
+    "dataLancamento": "2019-03-22",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/814380",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Difícil"
+    ],
+    "metacriticCritics": 90,
+    "metacriticUsers": 8.4,
+    "premios": [
+      {
+        "ano": 2019,
+        "organizacao": "The Game Awards",
+        "titulo": "Jogo do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Baldur's Gate 3",
+    "descricao": "Um RPG tático baseado em turnos ambientado no universo de Dungeons & Dragons, conhecido por sua profundidade de escolhas e consequências.",
+    "desenvolvedora": "Larian Studios",
+    "publicadora": "Larian Studios",
+    "dataLancamento": "2023-08-03",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1086940",
+    "generos": [
+      "RPG",
+      "Estratégia",
+      "Fantasia"
+    ],
+    "metacriticCritics": 96,
+    "metacriticUsers": 8.9,
+    "premios": [
+      {
+        "ano": 2023,
+        "organizacao": "The Game Awards",
+        "titulo": "Jogo do Ano"
+      },
+      {
+        "ano": 2023,
+        "organizacao": "D.I.C.E. Awards",
+        "titulo": "Jogo do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Persona 5 Royal",
+    "descricao": "Um RPG japonês onde os estudantes de Tóquio se transformam em Ladrões Fantasmas para roubar os corações corruptos dos adultos.",
+    "desenvolvedora": "Atlus",
+    "publicadora": "Sega",
+    "dataLancamento": "2022-10-21",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1953280/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1953280",
+    "generos": [
+      "JRPG",
+      "Turn-Based",
+      "Simulação"
+    ],
+    "metacriticCritics": 94,
+    "metacriticUsers": 8.4,
+    "premios": null
+  },
+  {
+    "titulo": "The Elder Scrolls V: Skyrim",
+    "descricao": "Um épico de fantasia com mundo aberto, onde o jogador assume o papel do Dragonborn, um herói destinado a parar Alduin, o Devorador de Mundos.",
+    "desenvolvedora": "Bethesda Game Studios",
+    "publicadora": "Bethesda Softworks",
+    "dataLancamento": "11/11/2011",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/489830",
+    "generos": [
+      "RPG",
+      "Mundo Aberto",
+      "Ação"
+    ],
+    "metacriticCritics": 94,
+    "metacriticUsers": 8.4,
+    "premios": [
+      {
+        "ano": 2011,
+        "organizacao": "Spike Video Game Awards",
+        "titulo": "Jogo do Ano"
+      },
+      {
+        "ano": 2012,
+        "organizacao": "D.I.C.E. Awards",
+        "titulo": "Jogo do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Divinity: Original Sin 2 - Definitive Edition",
+    "descricao": "Um RPG tático e profundo com combate por turnos, que permite aos jogadores explorar o vasto mundo de Rivellon e manipular a narrativa com base em suas escolhas e interações ambientais.",
+    "desenvolvedora": "Larian Studios",
+    "publicadora": "Larian Studios",
+    "dataLancamento": "14/09/2017",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/435150/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/435150",
+    "generos": [
+      "RPG",
+      "Estratégia",
+      "Cooperativo"
+    ],
+    "metacriticCritics": 93,
+    "metacriticUsers": 8.9,
+    "premios": [
+      {
+        "ano": 2017,
+        "organizacao": "PC Gamer",
+        "titulo": "Jogo do Ano"
+      },
+      {
+        "ano": 2018,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Multiplayer"
+      }
+    ]
+  },
+  {
+    "titulo": "Slay the Spire",
+    "descricao": "Um roguelike de construção de baralhos que combina combate tático com elementos de RPG, onde o jogador deve escalar uma torre gerada proceduralmente.",
+    "desenvolvedora": "MegaCrit Games",
+    "publicadora": "Humble Bundle",
+    "dataLancamento": "23/01/2019",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/646570/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/646570",
+    "generos": [
+      "Roguelike",
+      "Estratégia",
+      "Cartas"
+    ],
+    "metacriticCritics": 89,
+    "metacriticUsers": 8.8,
+    "premios": null
+  },
+  {
+    "titulo": "Subnautica",
+    "descricao": "Um jogo de sobrevivência, construção e aventura em primeira pessoa, ambientado em um planeta oceânico alienígena onde o jogador deve explorar as profundezas e descobrir a causa de um misterioso acidente.",
+    "desenvolvedora": "Unknown Worlds Entertainment",
+    "publicadora": "Unknown Worlds Entertainment",
+    "dataLancamento": "23/01/2018",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/264710/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/264710",
+    "generos": [
+      "Sobrevivência",
+      "Aventura",
+      "Mundo Aberto"
+    ],
+    "metacriticCritics": 87,
+    "metacriticUsers": 8.5,
+    "premios": null
+  },
+  {
+    "titulo": "XCOM 2",
+    "descricao": "Um jogo de estratégia tática por turnos onde o jogador lidera uma força de resistência contra um regime de ocupação alienígena na Terra.",
+    "desenvolvedora": "Firaxis Games",
+    "publicadora": "2K Games",
+    "dataLancamento": "05/02/2016",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/268500/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/268500",
+    "generos": [
+      "Estratégia",
+      "Tático",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 7.6,
+    "premios": [
+      {
+        "ano": 2016,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo de Estratégia"
+      }
+    ]
+  },
+  {
+    "titulo": "Monster Hunter: World",
+    "descricao": "Um RPG de ação onde os jogadores caçam monstros gigantes em vastos ecossistemas e usam os recursos coletados para criar equipamentos mais poderosos.",
+    "desenvolvedora": "Capcom",
+    "publicadora": "Capcom",
+    "dataLancamento": "09/08/2018",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/582010",
+    "generos": [
+      "RPG de Ação",
+      "Caça",
+      "Cooperativo"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 7.9,
+    "premios": [
+      {
+        "ano": 2018,
+        "organizacao": "Japan Game Awards",
+        "titulo": "Grande Prêmio"
+      }
+    ]
+  },
+  {
+    "titulo": "The Witness",
+    "descricao": "Um jogo de puzzle em primeira pessoa ambientado em uma ilha misteriosa cheia de estruturas e paisagens. O jogador deve resolver centenas de quebra-cabeças de painel para desvendar os segredos da ilha.",
+    "desenvolvedora": "Thekla, Inc.",
+    "publicadora": "Thekla, Inc.",
+    "dataLancamento": "26/01/2016",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/210970/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/210970",
+    "generos": [
+      "Puzzle",
+      "Exploração"
+    ],
+    "metacriticCritics": 87,
+    "metacriticUsers": 8,
+    "premios": [
+      {
+        "ano": 2017,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Design"
+      }
+    ]
+  },
+  {
+    "titulo": "Inside",
+    "descricao": "Um jogo de plataforma e puzzle sombrio e atmosférico, no qual um jovem garoto é perseguido através de uma paisagem distópica e perigosa.",
+    "desenvolvedora": "Playdead",
+    "publicadora": "Playdead",
+    "dataLancamento": "07/07/2016",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/390030/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/390030",
+    "generos": [
+      "Plataforma",
+      "Puzzle",
+      "Aventura"
+    ],
+    "metacriticCritics": 92,
+    "metacriticUsers": 8.3,
+    "premios": [
+      {
+        "ano": 2016,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo Independente"
+      },
+      {
+        "ano": 2017,
+        "organizacao": "D.I.C.E. Awards",
+        "titulo": "Realização em Direção de Arte"
+      }
+    ]
+  },
+  {
+    "titulo": "Nier: Automata",
+    "descricao": "Um RPG de ação ambientado em um futuro distópico onde a humanidade fugiu da Terra e robôs andróides lutam contra máquinas invasoras.",
+    "desenvolvedora": "PlatinumGames",
+    "publicadora": "Square Enix",
+    "dataLancamento": "17/03/2017",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/524220",
+    "generos": [
+      "RPG de Ação",
+      "Hack and Slash",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 84,
+    "metacriticUsers": 8.8,
+    "premios": [
+      {
+        "ano": 2017,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Trilha Sonora/Música"
+      }
+    ]
+  },
+  {
+    "titulo": "Prey (2017)",
+    "descricao": "Um 'immersive sim' de ficção científica ambientado a bordo da estação espacial Talos I, onde o jogador deve lutar contra uma infestação alienígena usando habilidades e poderes únicos.",
+    "desenvolvedora": "Arkane Studios",
+    "publicadora": "Bethesda Softworks",
+    "dataLancamento": "05/05/2017",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/480490/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/480490",
+    "generos": [
+      "Immersive Sim",
+      "Tiro em Primeira Pessoa",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 82,
+    "metacriticUsers": 8.1,
+    "premios": null
+  },
+  {
+    "titulo": "Cuphead",
+    "descricao": "Um jogo de ação e tiro 'run and gun' com um estilo de arte inspirado em desenhos animados dos anos 30. O jogo é famoso por sua dificuldade e batalhas contra chefes.",
+    "desenvolvedora": "Studio MDHR",
+    "publicadora": "Studio MDHR",
+    "dataLancamento": "29/09/2017",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/268910",
+    "generos": [
+      "Run and Gun",
+      "Plataforma",
+      "Ação"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 8.7,
+    "premios": [
+      {
+        "ano": 2017,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Direção de Arte"
+      },
+      {
+        "ano": 2017,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo Independente de Estreia"
+      }
+    ]
+  },
+  {
+    "titulo": "Terraria",
+    "descricao": "Um sandbox de aventura 2D focado em exploração, construção, criação de itens e combate. Frequentemente descrito como 'Minecraft 2D'.",
+    "desenvolvedora": "Re-Logic",
+    "publicadora": "Re-Logic",
+    "dataLancamento": "16/05/2011",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/105600",
+    "generos": [
+      "Sandbox",
+      "Aventura",
+      "RPG"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 8.6,
+    "premios": null
+  },
+  {
+    "titulo": "Fallout: New Vegas",
+    "descricao": "Um RPG pós-apocalíptico da série Fallout, ambientado no deserto de Mojave, onde o jogador deve navegar por facções em guerra pelo controle da região.",
+    "desenvolvedora": "Obsidian Entertainment",
+    "publicadora": "Bethesda Softworks",
+    "dataLancamento": "19/10/2010",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/22380/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/22380",
+    "generos": [
+      "RPG",
+      "Mundo Aberto",
+      "Pós-apocalíptico"
+    ],
+    "metacriticCritics": 84,
+    "metacriticUsers": 8.2,
+    "premios": [
+      {
+        "ano": 2010,
+        "organizacao": "Game Critics Awards",
+        "titulo": "Melhor RPG"
+      }
+    ]
+  },
+  {
+    "titulo": "Doom Eternal",
+    "descricao": "Um shooter em primeira pessoa frenético e violento, onde o Doom Slayer retorna para salvar a Terra de uma invasão demoníaca.",
+    "desenvolvedora": "id Software",
+    "publicadora": "Bethesda Softworks",
+    "dataLancamento": "20/03/2020",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/782330",
+    "generos": [
+      "Tiro em Primeira Pessoa",
+      "Ação"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 8.7,
+    "premios": [
+      {
+        "ano": 2020,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo de Ação"
+      }
+    ]
+  },
+  {
+    "titulo": "Ori and the Will of the Wisps",
+    "descricao": "Um jogo de plataforma de aventura e metroidvania visualmente deslumbrante, que segue o espírito guardião Ori em uma nova jornada para descobrir seu verdadeiro destino.",
+    "desenvolvedora": "Moon Studios",
+    "publicadora": "Xbox Game Studios",
+    "dataLancamento": "11/03/2020",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1057090/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1057090",
+    "generos": [
+      "Metroidvania",
+      "Plataforma",
+      "Aventura"
+    ],
+    "metacriticCritics": 90,
+    "metacriticUsers": 9.2,
+    "premios": [
+      {
+        "ano": 2021,
+        "organizacao": "D.I.C.E. Awards",
+        "titulo": "Realização em Animação"
+      }
+    ]
+  },
+  {
+    "titulo": "Rocket League",
+    "descricao": "Um jogo de esportes futurista que combina futebol com veículos movidos a foguete. O objetivo é marcar gols usando carros para impulsionar a bola.",
+    "desenvolvedora": "Psyonix",
+    "publicadora": "Psyonix",
+    "dataLancamento": "07/07/2015",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/252950/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/252950",
+    "generos": [
+      "Esportes",
+      "Veículos",
+      "Multijogador"
+    ],
+    "metacriticCritics": 86,
+    "metacriticUsers": 8.3,
+    "premios": [
+      {
+        "ano": 2015,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo de Esportes/Corrida"
+      }
+    ]
+  },
+  {
+    "titulo": "Kentucky Route Zero",
+    "descricao": "Uma aventura gráfica surreal e poética que segue um motorista de caminhão em busca de uma rodovia secreta em Kentucky, explorando temas de dívida, comunidade e o sonho americano.",
+    "desenvolvedora": "Cardboard Computer",
+    "publicadora": "Annapurna Interactive",
+    "dataLancamento": "07/01/2020",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/231430/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/231430",
+    "generos": [
+      "Aventura",
+      "Narrativa",
+      "Apontar e Clicar"
+    ],
+    "metacriticCritics": 90,
+    "metacriticUsers": 8.1,
+    "premios": [
+      {
+        "ano": 2021,
+        "organizacao": "Independent Games Festival",
+        "titulo": "Grande Prêmio Seumas McNally"
+      }
+    ]
+  },
+  {
+    "titulo": "Return of the Obra Dinn",
+    "descricao": "Um jogo de mistério e dedução em primeira pessoa. O jogador é um inspetor de seguros que deve descobrir o destino dos 60 tripulantes desaparecidos de um navio fantasma usando um relógio mágico que mostra o momento da morte.",
+    "desenvolvedora": "Lucas Pope",
+    "publicadora": "3909",
+    "dataLancamento": "18/10/2018",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/653530/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/653530",
+    "generos": [
+      "Puzzle",
+      "Mistério",
+      "Dedução"
+    ],
+    "metacriticCritics": 92,
+    "metacriticUsers": 8.6,
+    "premios": [
+      {
+        "ano": 2019,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Design de Jogo"
+      },
+      {
+        "ano": 2019,
+        "organizacao": "Game Developers Choice Awards (GDCA)",
+        "titulo": "Jogo do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Death Stranding Director's Cut",
+    "descricao": "Um jogo de ação e aventura de Hideo Kojima, onde o jogador assume o papel de Sam Porter Bridges, reconectando uma América fragmentada após um evento cataclísmico.",
+    "desenvolvedora": "Kojima Productions",
+    "publicadora": "505 Games",
+    "dataLancamento": "30/03/2022",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1850570/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1850570",
+    "generos": [
+      "Aventura",
+      "Mundo Aberto",
+      "Ação"
+    ],
+    "metacriticCritics": 85,
+    "metacriticUsers": 7.9,
+    "premios": [
+      {
+        "ano": 2019,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Direção de Jogo"
+      }
+    ]
+  },
+  {
+    "titulo": "Resident Evil 2 (Remake)",
+    "descricao": "Uma reimaginação do clássico de survival horror de 1998, onde Leon Kennedy e Claire Redfield tentam sobreviver ao surto de zumbis em Raccoon City.",
+    "desenvolvedora": "Capcom",
+    "publicadora": "Capcom",
+    "dataLancamento": "25/01/2019",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/883710/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/883710",
+    "generos": [
+      "Survival Horror",
+      "Ação",
+      "Terror"
+    ],
+    "metacriticCritics": 93,
+    "metacriticUsers": 8.8,
+    "premios": [
+      {
+        "ano": 2019,
+        "organizacao": "Golden Joystick Awards",
+        "titulo": "Melhor Jogo do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "A Plague Tale: Innocence",
+    "descricao": "Um jogo de aventura e stealth focado na história de dois irmãos, Amicia e Hugo, que tentam sobreviver à Inquisição Francesa e a hordas de ratos devoradores.",
+    "desenvolvedora": "Asobo Studio",
+    "publicadora": "Focus Home Interactive",
+    "dataLancamento": "14/05/2019",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/752590/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/752590",
+    "generos": [
+      "Aventura",
+      "Stealth",
+      "História"
+    ],
+    "metacriticCritics": 81,
+    "metacriticUsers": 8,
+    "premios": null
+  },
+  {
+    "titulo": "Hitman 3",
+    "descricao": "O capítulo final da trilogia World of Assassination, onde o Agente 47 viaja pelo mundo realizando assassinatos criativos em locais sandbox massivos.",
+    "desenvolvedora": "IO Interactive",
+    "publicadora": "IO Interactive",
+    "dataLancamento": "20/01/2021",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1659040/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1659040",
+    "generos": [
+      "Stealth",
+      "Sandbox",
+      "Ação"
+    ],
+    "metacriticCritics": 87,
+    "metacriticUsers": 7.8,
+    "premios": [
+      {
+        "ano": 2021,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Jogo Britânico"
+      }
+    ]
+  },
+  {
+    "titulo": "What Remains of Edith Finch",
+    "descricao": "Um jogo de aventura narrativa em primeira pessoa onde o jogador explora a estranha e vasta casa da família Finch, revivendo as últimas horas de vida de cada membro da família.",
+    "desenvolvedora": "Giant Sparrow",
+    "publicadora": "Annapurna Interactive",
+    "dataLancamento": "25/04/2017",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/501300/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/501300",
+    "generos": [
+      "Narrativa",
+      "Aventura",
+      "Exploração"
+    ],
+    "metacriticCritics": 92,
+    "metacriticUsers": 8.8,
+    "premios": [
+      {
+        "ano": 2017,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo Narrativo"
+      },
+      {
+        "ano": 2018,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Jogo"
+      }
+    ]
+  },
+  {
+    "titulo": "Marvel's Spider-Man Remastered",
+    "descricao": "Um jogo de ação e aventura em mundo aberto onde Peter Parker, como Homem-Aranha, luta contra o crime em Nova York enquanto equilibra sua vida pessoal e a ameaça de novos vilões.",
+    "desenvolvedora": "Insomniac Games",
+    "publicadora": "Sony Interactive Entertainment",
+    "dataLancamento": "12/08/2022",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1817070",
+    "generos": [
+      "Ação",
+      "Mundo Aberto",
+      "Super-herói"
+    ],
+    "metacriticCritics": 87,
+    "metacriticUsers": 8.7,
+    "premios": [
+      {
+        "ano": 2018,
+        "organizacao": "D.I.C.E. Awards",
+        "titulo": "Jogo de Aventura do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Factorio",
+    "descricao": "Um jogo de construção e gerenciamento onde o jogador deve construir e manter fábricas automatizadas, coletando recursos, pesquisando tecnologias e defendendo-se de criaturas hostis.",
+    "desenvolvedora": "Wube Software LTD.",
+    "publicadora": "Wube Software LTD.",
+    "dataLancamento": "14/08/2020",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/427520/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/427520",
+    "generos": [
+      "Estratégia",
+      "Simulação",
+      "Construção"
+    ],
+    "metacriticCritics": 90,
+    "metacriticUsers": 9.4,
+    "premios": null
+  },
+  {
+    "titulo": "The Last of Us Part I",
+    "descricao": "Uma experiência que define o gênero, combinando elementos de sobrevivência e ação com uma narrativa intensa sobre a conexão humana em um mundo pós-pandêmico devastado.",
+    "desenvolvedora": "Naughty Dog",
+    "publicadora": "Sony Interactive Entertainment",
+    "dataLancamento": "28/03/2023",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888980/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1888980",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Sobrevivência"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 7.3,
+    "premios": [
+      {
+        "ano": 2013,
+        "organizacao": "Spike Video Game Awards (VGA)",
+        "titulo": "Game of the Year (Original PS3 Release)"
+      },
+      {
+        "ano": 2013,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Best Game (Original PS3 Release)"
+      }
+    ]
+  },
+  {
+    "titulo": "Uncharted: Legacy of Thieves Collection",
+    "descricao": "Uma coleção remasterizada que inclui as aclamadas aventuras de Uncharted 4: A Thief’s End e Uncharted: The Lost Legacy, oferecendo gráficos aprimorados e jogabilidade cinematográfica.",
+    "desenvolvedora": "Naughty Dog, Iron Galaxy Studios",
+    "publicadora": "Sony Interactive Entertainment",
+    "dataLancamento": "19/10/2022",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1659420/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1659420",
+    "generos": [
+      "Aventura",
+      "Ação"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 8,
+    "premios": [
+      {
+        "ano": 2016,
+        "organizacao": "The Game Awards",
+        "titulo": "Best Performance (Original U4 Release)"
+      }
+    ]
+  },
+  {
+    "titulo": "It Takes Two",
+    "descricao": "Uma aventura de plataforma cooperativa que exige que os jogadores trabalhem juntos de maneiras inesperadas e subversivas, seguindo um casal à beira do divórcio transformado em bonecos.",
+    "desenvolvedora": "Hazelight Studios",
+    "publicadora": "Electronic Arts",
+    "dataLancamento": "26/03/2021",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1426210",
+    "generos": [
+      "Aventura",
+      "Cooperativo",
+      "Plataforma"
+    ],
+    "metacriticCritics": 89,
+    "metacriticUsers": 8.6,
+    "premios": [
+      {
+        "ano": 2021,
+        "organizacao": "The Game Awards",
+        "titulo": "Game of the Year"
+      },
+      {
+        "ano": 2021,
+        "organizacao": "D.I.C.E. Awards",
+        "titulo": "Game of the Year"
+      }
+    ]
+  },
+  {
+    "titulo": "Forza Horizon 5",
+    "descricao": "Um jogo de corrida de mundo aberto ambientado em um vibrante e dinâmico México. Oferece centenas dos melhores carros do mundo, com exploração ilimitada e desafios emocionantes.",
+    "desenvolvedora": "Playground Games",
+    "publicadora": "Xbox Game Studios",
+    "dataLancamento": "09/11/2021",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1551360",
+    "generos": [
+      "Corrida",
+      "Mundo Aberto",
+      "Simulação"
+    ],
+    "metacriticCritics": 92,
+    "metacriticUsers": 8.1,
+    "premios": [
+      {
+        "ano": 2021,
+        "organizacao": "The Game Awards",
+        "titulo": "Best Sports/Racing Game"
+      },
+      {
+        "ano": 2022,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Best Multiplayer"
+      }
+    ]
+  },
+  {
+    "titulo": "Psychonauts 2",
+    "descricao": "Uma aventura de plataforma bizarra e imaginativa. O jogador assume o papel de Razputin Aquato, um acrobata treinado e psiconauta com a missão de deter um vilão psíquico.",
+    "desenvolvedora": "Double Fine Productions",
+    "publicadora": "Xbox Game Studios",
+    "dataLancamento": "25/08/2021",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1427210/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1427210",
+    "generos": [
+      "Plataforma",
+      "Aventura",
+      "Comédia"
+    ],
+    "metacriticCritics": 89,
+    "metacriticUsers": 8.9,
+    "premios": [
+      {
+        "ano": 2021,
+        "organizacao": "Hugo Awards",
+        "titulo": "Best Video Game"
+      }
+    ]
+  },
+  {
+    "titulo": "Ori and the Blind Forest: Definitive Edition",
+    "descricao": "Um jogo de plataforma e ação aclamado pela crítica, com visuais impressionantes e uma narrativa emocionalmente carregada sobre um jovem órfão destinado a salvar sua casa.",
+    "desenvolvedora": "Moon Studios",
+    "publicadora": "Xbox Game Studios",
+    "dataLancamento": "27/04/2016",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/387290/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/387290",
+    "generos": [
+      "Plataforma",
+      "Metroidvania",
+      "Aventura"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 8.7,
+    "premios": [
+      {
+        "ano": 2015,
+        "organizacao": "The Game Awards",
+        "titulo": "Best Art Direction"
+      }
+    ]
+  },
+  {
+    "titulo": "Marvel's Guardians of the Galaxy",
+    "descricao": "Um jogo de ação e aventura em terceira pessoa que coloca o jogador no papel de Star-Lord, liderando uma equipe de desajustados intergalácticos em uma aventura caótica pelo cosmos.",
+    "desenvolvedora": "Eidos-Montréal",
+    "publicadora": "Square Enix",
+    "dataLancamento": "26/10/2021",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1088850/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1088850",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "RPG"
+    ],
+    "metacriticCritics": 80,
+    "metacriticUsers": 8.4,
+    "premios": [
+      {
+        "ano": 2021,
+        "organizacao": "The Game Awards",
+        "titulo": "Best Narrative"
+      }
+    ]
+  },
+  {
+    "titulo": "Deep Rock Galactic",
+    "descricao": "Um FPS cooperativo de ficção científica com anões espaciais duros, ambientes 100% destrutíveis, cavernas geradas proceduralmente e hordas infinitas de monstros alienígenas.",
+    "desenvolvedora": "Ghost Ship Games",
+    "publicadora": "Coffee Stain Publishing",
+    "dataLancamento": "13/05/2020",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/548430",
+    "generos": [
+      "Cooperativo",
+      "FPS",
+      "Ação"
+    ],
+    "metacriticCritics": 85,
+    "metacriticUsers": 8.8,
+    "premios": null
+  },
+  {
+    "titulo": "Yakuza 0",
+    "descricao": "Um RPG de ação que serve como prequela da série Yakuza, ambientado no Japão dos anos 80. Segue as histórias de Kazuma Kiryu e Goro Majima em um submundo do crime cheio de estilo e drama.",
+    "desenvolvedora": "Ryu Ga Gotoku Studio",
+    "publicadora": "SEGA",
+    "dataLancamento": "01/08/2018",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/638950/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/638950",
+    "generos": [
+      "RPG",
+      "Ação",
+      "Beat 'em up"
+    ],
+    "metacriticCritics": 85,
+    "metacriticUsers": 8.7,
+    "premios": null
+  },
+  {
+    "titulo": "Deathloop",
+    "descricao": "Um FPS de ação e aventura onde dois assassinos rivais estão presos em um loop temporal na ilha de Blackreef. O jogador deve eliminar oito alvos antes que o dia reinicie.",
+    "desenvolvedora": "Arkane Lyon",
+    "publicadora": "Bethesda Softworks",
+    "dataLancamento": "14/09/2021",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1252330/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1252330",
+    "generos": [
+      "FPS",
+      "Ação",
+      "Stealth"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 7.4,
+    "premios": [
+      {
+        "ano": 2021,
+        "organizacao": "The Game Awards",
+        "titulo": "Best Game Direction"
+      },
+      {
+        "ano": 2021,
+        "organizacao": "The Game Awards",
+        "titulo": "Best Art Direction"
+      }
+    ]
+  },
+  {
+    "titulo": "Devil May Cry 5",
+    "descricao": "A lenda da ação estilizada está de volta. O jogo apresenta três personagens jogáveis, cada um com estilos de combate radicalmente diferentes, para enfrentar a ameaça demoníaca.",
+    "desenvolvedora": "Capcom",
+    "publicadora": "Capcom",
+    "dataLancamento": "07/03/2019",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/601150/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/601150",
+    "generos": [
+      "Ação",
+      "Hack and Slash"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 8.5,
+    "premios": [
+      {
+        "ano": 2019,
+        "organizacao": "The Game Awards",
+        "titulo": "Best Action Game"
+      }
+    ]
+  },
+  {
+    "titulo": "Bayonetta",
+    "descricao": "Um jogo de ação e hack and slash onde o jogador controla Bayonetta, uma bruxa que usa pistolas nos calcanhares e ataques mágicos para enfrentar anjos e demônios.",
+    "desenvolvedora": "PlatinumGames",
+    "publicadora": "SEGA",
+    "dataLancamento": "11/04/2017",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/460790/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/460790",
+    "generos": [
+      "Ação",
+      "Hack and Slash"
+    ],
+    "metacriticCritics": 90,
+    "metacriticUsers": 8.4,
+    "premios": null
+  },
+  {
+    "titulo": "Metro Exodus",
+    "descricao": "Um épico FPS narrativo impulsionado por uma história, que mistura combate mortal e furtividade com exploração e horror de sobrevivência em um dos mundos de jogo mais imersivos já criados.",
+    "desenvolvedora": "4A Games",
+    "publicadora": "Deep Silver",
+    "dataLancamento": "15/02/2019",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/412020/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/412020",
+    "generos": [
+      "FPS",
+      "Sobrevivência",
+      "Pós-apocalíptico"
+    ],
+    "metacriticCritics": 82,
+    "metacriticUsers": 7.8,
+    "premios": null
+  },
+  {
+    "titulo": "Horizon Zero Dawn Complete Edition",
+    "descricao": "Em um futuro pós-apocalíptico onde máquinas gigantes vagam pela Terra, a caçadora Aloy embarca em uma jornada para descobrir seu destino e deter uma ameaça catastrófica.",
+    "desenvolvedora": "Guerrilla Games",
+    "publicadora": "Sony Interactive Entertainment",
+    "dataLancamento": "07/08/2020",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1178330/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1178330",
+    "generos": [
+      "RPG de Ação",
+      "Mundo Aberto"
+    ],
+    "metacriticCritics": 84,
+    "metacriticUsers": 8.5,
+    "premios": [
+      {
+        "ano": 2017,
+        "organizacao": "D.I.C.E. Awards",
+        "titulo": "Outstanding Achievement in Story"
+      }
+    ]
+  },
+  {
+    "titulo": "NieR Replicant ver.1.22474487139...",
+    "descricao": "Uma versão atualizada do RPG de ação japonês NieR Replicant, que precede NieR: Automata. O jogador segue um jovem em uma busca para curar sua irmã de uma doença mortal.",
+    "desenvolvedora": "Toylogic Inc.",
+    "publicadora": "Square Enix",
+    "dataLancamento": "23/04/2021",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1113560/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1113560",
+    "generos": [
+      "RPG de Ação",
+      "JRPG"
+    ],
+    "metacriticCritics": 83,
+    "metacriticUsers": 8.6,
+    "premios": null
+  },
+  {
+    "titulo": "Chrono Trigger",
+    "descricao": "Um RPG clássico desenvolvido por uma 'equipe dos sonhos' da Square. Envolve viagem no tempo para salvar o futuro, apresentando múltiplos finais e um sistema de batalha inovador.",
+    "desenvolvedora": "Square Enix",
+    "publicadora": "Square Enix",
+    "dataLancamento": "27/02/2018",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/613830/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/613830",
+    "generos": [
+      "JRPG",
+      "RPG",
+      "Viagem no Tempo"
+    ],
+    "metacriticCritics": 80,
+    "metacriticUsers": 7.8,
+    "premios": [
+      {
+        "ano": 1995,
+        "organizacao": "Famitsu",
+        "titulo": "Jogo do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
+    "descricao": "Um RPG massivo que segue a história de Luminary, um herói reencarnado que deve salvar o mundo. Esta edição definitiva adiciona trilhas sonoras orquestrais e conteúdo de história extra.",
+    "desenvolvedora": "Square Enix",
+    "publicadora": "Square Enix",
+    "dataLancamento": "04/12/2020",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1295510/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1295510",
+    "generos": [
+      "JRPG",
+      "RPG"
+    ],
+    "metacriticCritics": 93,
+    "metacriticUsers": 8.8,
+    "premios": null
+  },
+  {
+    "titulo": "Dragon Age: Origins - Ultimate Edition",
+    "descricao": "Um RPG épico de fantasia da BioWare, onde o jogador assume o papel de um Grey Warden, destinado a unir um reino dividido e derrotar uma antiga praga conhecida como Blight.",
+    "desenvolvedora": "BioWare",
+    "publicadora": "Electronic Arts",
+    "dataLancamento": "03/11/2009",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/47810/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/47810",
+    "generos": [
+      "RPG",
+      "Fantasia",
+      "Tático"
+    ],
+    "metacriticCritics": 91,
+    "metacriticUsers": 8.5,
+    "premios": [
+      {
+        "ano": 2009,
+        "organizacao": "IGN",
+        "titulo": "PC Game of the Year"
+      }
+    ]
+  },
+  {
+    "titulo": "Star Wars Jedi: Fallen Order",
+    "descricao": "Uma aventura de ação em terceira pessoa que segue Cal Kestis, um dos últimos Jedi sobreviventes, enquanto ele tenta reconstruir a Ordem Jedi e escapar da Inquisição Imperial.",
+    "desenvolvedora": "Respawn Entertainment",
+    "publicadora": "Electronic Arts",
+    "dataLancamento": "15/11/2019",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172380/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1172380",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Metroidvania"
+    ],
+    "metacriticCritics": 81,
+    "metacriticUsers": 8.1,
+    "premios": null
+  },
+  {
+    "titulo": "DOOM (1993)",
+    "descricao": "O FPS que popularizou o gênero. O jogador é um fuzileiro espacial solitário que deve lutar contra hordas de demônios do Inferno que invadiram uma base em Marte.",
+    "desenvolvedora": "id Software",
+    "publicadora": "Bethesda Softworks",
+    "dataLancamento": "10/12/1993",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1142490/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1142490",
+    "generos": [
+      "FPS",
+      "Clássico",
+      "Ação"
+    ],
+    "metacriticCritics": 90,
+    "metacriticUsers": 8.8,
+    "premios": null
+  },
+  {
+    "titulo": "Vampire Survivors",
+    "descricao": "Um roguelite de terror gótico com elementos minimalistas. O jogador deve sobreviver a hordas de monstros até o amanhecer, desbloqueando armas e power-ups poderosos.",
+    "desenvolvedora": "poncle",
+    "publicadora": "poncle",
+    "dataLancamento": "15/12/2022",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1794680/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1794680",
+    "generos": [
+      "Roguelite",
+      "Bullet Hell",
+      "Indie"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 8.5,
+    "premios": [
+      {
+        "ano": 2023,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Best Game"
+      }
+    ]
+  },
+  {
+    "titulo": "No Man's Sky",
+    "descricao": "Um jogo de exploração espacial massivo com um universo gerado proceduralmente. Os jogadores exploram, constroem, combatem e negociam em milhões de planetas únicos.",
+    "desenvolvedora": "Hello Games",
+    "publicadora": "Hello Games",
+    "dataLancamento": "12/08/2016",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/275850",
+    "generos": [
+      "Sobrevivência",
+      "Exploração",
+      "Mundo Aberto"
+    ],
+    "metacriticCritics": 61,
+    "metacriticUsers": 7.3,
+    "premios": null
+  },
+  {
+    "titulo": "Warframe",
+    "descricao": "Um jogo de tiro em terceira pessoa free-to-play, focado em grind e ação frenética. Os jogadores controlam Tenno, guerreiros antigos em trajes Warframe, em uma guerra interplanetária.",
+    "desenvolvedora": "Digital Extremes",
+    "publicadora": "Digital Extremes",
+    "dataLancamento": "25/03/2013",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/230410",
+    "generos": [
+      "Free-to-Play",
+      "Ação",
+      "MMO"
+    ],
+    "metacriticCritics": 68,
+    "metacriticUsers": 8.4,
+    "premios": null
+  },
+  {
+    "titulo": "Dying Light",
+    "descricao": "Um jogo de terror de sobrevivência em primeira pessoa ambientado em um mundo aberto devastado por um apocalipse zumbi. O jogo é conhecido por seu sistema de parkour e ciclo dia/noite perigoso.",
+    "desenvolvedora": "Techland",
+    "publicadora": "Warner Bros. Interactive Entertainment",
+    "dataLancamento": "27/01/2015",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/239140/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/239140",
+    "generos": [
+      "Sobrevivência",
+      "Mundo Aberto",
+      "Terror"
+    ],
+    "metacriticCritics": 75,
+    "metacriticUsers": 8.3,
+    "premios": null
+  },
+  {
+    "titulo": "Divinity: Original Sin Enhanced Edition",
+    "descricao": "Um RPG tático isométrico com jogabilidade cooperativa e profunda liberdade de escolha. Foi aclamado por seu combate baseado em turnos e elementos ambientais interativos.",
+    "desenvolvedora": "Larian Studios",
+    "publicadora": "Larian Studios",
+    "dataLancamento": "27/10/2015",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/373420/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/373420",
+    "generos": [
+      "RPG",
+      "Tático",
+      "Fantasia"
+    ],
+    "metacriticCritics": 87,
+    "metacriticUsers": 8.4,
+    "premios": [
+      {
+        "ano": 2014,
+        "organizacao": "GameSpot",
+        "titulo": "PC Game of the Year (Original Release)"
+      }
+    ]
+  },
+  {
+    "titulo": "Mass Effect",
+    "descricao": "O primeiro jogo da aclamada trilogia de RPG de ficção científica que coloca os jogadores no papel do Comandante Shepard, que deve impedir o Reapers de destruir toda a vida galáctica.",
+    "desenvolvedora": "BioWare",
+    "publicadora": "Electronic Arts",
+    "dataLancamento": "28/05/2008",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/17460/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/17460",
+    "generos": [
+      "RPG",
+      "Ficção Científica",
+      "Ação"
+    ],
+    "metacriticCritics": 89,
+    "metacriticUsers": 8.8,
+    "premios": [
+      {
+        "ano": 2007,
+        "organizacao": "IGN",
+        "titulo": "Melhor RPG (Xbox 360)"
+      },
+      {
+        "ano": 2008,
+        "organizacao": "Academy of Interactive Arts & Sciences (D.I.C.E. Awards)",
+        "titulo": "Jogo de RPG do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Age of Empires II: Definitive Edition",
+    "descricao": "Uma remasterização definitiva do clássico jogo de estratégia em tempo real, apresentando gráficos 4K Ultra HD, trilha sonora totalmente remasterizada e novo conteúdo.",
+    "desenvolvedora": "Forgotten Empires, Tantalus Media, Wicked Witch",
+    "publicadora": "Xbox Game Studios",
+    "dataLancamento": "14/11/2019",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/813780/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/813780",
+    "generos": [
+      "Estratégia",
+      "RTS",
+      "Histórico"
+    ],
+    "metacriticCritics": 84,
+    "metacriticUsers": 8.1,
+    "premios": null
+  },
+  {
+    "titulo": "Persona 4 Golden",
+    "descricao": "Um RPG japonês aclamado que combina a vida escolar cotidiana com a exploração de masmorras sobrenaturais para resolver uma série de assassinatos misteriosos na cidade rural de Inaba.",
+    "desenvolvedora": "Atlus",
+    "publicadora": "Atlus",
+    "dataLancamento": "13/06/2020",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1115000/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1115000",
+    "generos": [
+      "JRPG",
+      "Simulação Social",
+      "Mistério"
+    ],
+    "metacriticCritics": 87,
+    "metacriticUsers": 8.6,
+    "premios": [
+      {
+        "ano": 2020,
+        "organizacao": "Steam Awards",
+        "titulo": "Melhor Jogo Portado"
+      }
+    ]
+  },
+  {
+    "titulo": "Ghostrunner",
+    "descricao": "Um jogo de ação cyberpunk hardcore em primeira pessoa com mecânica de 'one-hit-kill', onde os jogadores escalam uma megaestrutura para derrotar um tirano.",
+    "desenvolvedora": "One More Level, 3D Realms, Slipgate Ironworks",
+    "publicadora": "505 Games",
+    "dataLancamento": "27/10/2020",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1139900/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1139900",
+    "generos": [
+      "Ação",
+      "Plataforma",
+      "Cyberpunk"
+    ],
+    "metacriticCritics": 81,
+    "metacriticUsers": 7.8,
+    "premios": null
+  },
+  {
+    "titulo": "Risk of Rain 2",
+    "descricao": "Um jogo roguelike de tiro em terceira pessoa onde os jogadores devem lutar contra hordas de monstros, acumular itens e se tornar progressivamente mais poderosos antes de enfrentar um chefe final.",
+    "desenvolvedora": "Hopoo Games",
+    "publicadora": "Gearbox Publishing",
+    "dataLancamento": "11/08/2020",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/632360/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/632360",
+    "generos": [
+      "Roguelike",
+      "Tiro",
+      "Ação"
+    ],
+    "metacriticCritics": 85,
+    "metacriticUsers": 8.8,
+    "premios": null
+  },
+  {
+    "titulo": "Sable",
+    "descricao": "Uma aventura de mundo aberto com gráficos distintos inspirados em Moebius, focada na exploração e descoberta enquanto Sable embarca em uma jornada de passagem.",
+    "desenvolvedora": "Shedworks",
+    "publicadora": "Raw Fury",
+    "dataLancamento": "23/09/2021",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/757310/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/757310",
+    "generos": [
+      "Aventura",
+      "Mundo Aberto",
+      "Indie"
+    ],
+    "metacriticCritics": 76,
+    "metacriticUsers": 6.9,
+    "premios": null
+  },
+  {
+    "titulo": "Marvel's Midnight Suns",
+    "descricao": "Um RPG tático que combina o combate tático de XCOM com um sistema de cartas para formar uma equipe de super-heróis da Marvel, incluindo Vingadores, X-Men e os Midnight Suns.",
+    "desenvolvedora": "Firaxis Games",
+    "publicadora": "2K",
+    "dataLancamento": "02/12/2022",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/368260/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/368260",
+    "generos": [
+      "Tático",
+      "RPG",
+      "Estratégia"
+    ],
+    "metacriticCritics": 83,
+    "metacriticUsers": 7.9,
+    "premios": [
+      {
+        "ano": 2022,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor RPG (Nomeação)"
+      }
+    ]
+  },
+  {
+    "titulo": "Hi-Fi RUSH",
+    "descricao": "Um jogo de ação rítmica onde o mundo e o combate se movem no ritmo da música. Siga a história de Chai, um aspirante a estrela do rock que luta contra uma corporação robótica.",
+    "desenvolvedora": "Tango Gameworks",
+    "publicadora": "Bethesda Softworks",
+    "dataLancamento": "25/01/2023",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817230/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1817230",
+    "generos": [
+      "Ação",
+      "Ritmo",
+      "Hack and Slash"
+    ],
+    "metacriticCritics": 87,
+    "metacriticUsers": 8.6,
+    "premios": [
+      {
+        "ano": 2023,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Design de Áudio"
+      }
+    ]
+  },
+  {
+    "titulo": "Dead Cells",
+    "descricao": "Um roguelite de ação e plataforma no estilo Metroidvania, conhecido por seu combate rápido e a progressão permanente após cada morte.",
+    "desenvolvedora": "Motion Twin",
+    "publicadora": "Motion Twin",
+    "dataLancamento": "07/08/2018",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/588650/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/588650",
+    "generos": [
+      "Roguelite",
+      "Metroidvania",
+      "Plataforma"
+    ],
+    "metacriticCritics": 89,
+    "metacriticUsers": 8.6,
+    "premios": [
+      {
+        "ano": 2018,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo de Ação"
+      }
+    ]
+  },
+  {
+    "titulo": "Sea of Thieves",
+    "descricao": "Um jogo de aventura multiplayer de mundo compartilhado onde os jogadores assumem o papel de piratas, navegando pelos mares, caçando tesouros e enfrentando outros navios.",
+    "desenvolvedora": "Rare",
+    "publicadora": "Microsoft Game Studios",
+    "dataLancamento": "03/06/2020",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1172620",
+    "generos": [
+      "Aventura",
+      "Mundo Aberto",
+      "Multijogador"
+    ],
+    "metacriticCritics": 67,
+    "metacriticUsers": 7,
+    "premios": null
+  },
+  {
+    "titulo": "Dragon's Dogma: Dark Arisen",
+    "descricao": "Um RPG de ação com um sistema de combate profundo e um sistema de 'Peões' (Pawns) único, onde os jogadores exploram um vasto mundo de fantasia e enfrentam criaturas míticas.",
+    "desenvolvedora": "Capcom",
+    "publicadora": "Capcom",
+    "dataLancamento": "15/01/2016",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/367500/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/367500",
+    "generos": [
+      "RPG de Ação",
+      "Fantasia",
+      "Mundo Aberto"
+    ],
+    "metacriticCritics": 81,
+    "metacriticUsers": 8.3,
+    "premios": null
+  },
+  {
+    "titulo": "Sleeping Dogs: Definitive Edition",
+    "descricao": "Um jogo de ação e aventura em mundo aberto ambientado em Hong Kong, focado em combate corpo a corpo intenso e uma história de policial disfarçado.",
+    "desenvolvedora": "United Front Games",
+    "publicadora": "Square Enix",
+    "dataLancamento": "08/10/2014",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/307690/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/307690",
+    "generos": [
+      "Mundo Aberto",
+      "Ação",
+      "Luta"
+    ],
+    "metacriticCritics": 69,
+    "metacriticUsers": 7.7,
+    "premios": null
+  },
+  {
+    "titulo": "Vanquish",
+    "descricao": "Um jogo de tiro em terceira pessoa frenético e futurista, conhecido por sua mecânica de deslize em alta velocidade e combate cinético.",
+    "desenvolvedora": "PlatinumGames",
+    "publicadora": "SEGA",
+    "dataLancamento": "25/05/2017",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/460790/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/460790",
+    "generos": [
+      "Tiro em Terceira Pessoa",
+      "Ação",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 77,
+    "metacriticUsers": 7.4,
+    "premios": null
+  },
+  {
+    "titulo": "Undertale",
+    "descricao": "Um RPG onde você não precisa matar ninguém. A história se concentra em uma criança que cai no Subsolo, um vasto reino escondido sob a superfície da Terra.",
+    "desenvolvedora": "Toby Fox",
+    "publicadora": "Toby Fox",
+    "dataLancamento": "15/09/2015",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/391540/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/391540",
+    "generos": [
+      "RPG",
+      "Indie",
+      "Escolhas e Consequências"
+    ],
+    "metacriticCritics": 92,
+    "metacriticUsers": 8.3,
+    "premios": [
+      {
+        "ano": 2016,
+        "organizacao": "Independent Games Festival",
+        "titulo": "Prêmio do Público"
+      }
+    ]
+  },
+  {
+    "titulo": "Doki Doki Literature Club Plus!",
+    "descricao": "Uma visual novel que se transforma em um jogo de terror psicológico, explorando temas de saúde mental e metanarrativa.",
+    "desenvolvedora": "Team Salvato",
+    "publicadora": "Serenity Forge",
+    "dataLancamento": "30/06/2021",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1388880/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1388880",
+    "generos": [
+      "Visual Novel",
+      "Terror Psicológico",
+      "Indie"
+    ],
+    "metacriticCritics": 85,
+    "metacriticUsers": 8.5,
+    "premios": null
+  },
+  {
+    "titulo": "Shovel Knight: Treasure Trove",
+    "descricao": "Um jogo de plataforma 2D de estilo retrô com jogabilidade e estética inspiradas nos clássicos de 8 bits, oferecendo múltiplas campanhas.",
+    "desenvolvedora": "Yacht Club Games",
+    "publicadora": "Yacht Club Games",
+    "dataLancamento": "13/09/2014",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/250760/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/250760",
+    "generos": [
+      "Plataforma",
+      "Ação",
+      "Retrô"
+    ],
+    "metacriticCritics": 90,
+    "metacriticUsers": 8.3,
+    "premios": [
+      {
+        "ano": 2014,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo Independente"
+      }
+    ]
+  },
+  {
+    "titulo": "System Shock 2",
+    "descricao": "Um marco do gênero Immersive Sim, combinando elementos de RPG, tiro em primeira pessoa e horror de sobrevivência em uma nave espacial infestada.",
+    "desenvolvedora": "Irrational Games, Looking Glass Studios",
+    "publicadora": "Nightdive Studios",
+    "dataLancamento": "11/08/1999",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/238210/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/238210",
+    "generos": [
+      "Immersive Sim",
+      "FPS",
+      "Terror de Sobrevivência"
+    ],
+    "metacriticCritics": 92,
+    "metacriticUsers": 8.9,
+    "premios": null
+  },
+  {
+    "titulo": "Kerbal Space Program",
+    "descricao": "Um simulador de voo espacial onde os jogadores gerenciam um programa espacial para construir e pilotar naves espaciais para levar sua tripulação de 'Kerbals' ao espaço.",
+    "desenvolvedora": "Squad",
+    "publicadora": "Private Division",
+    "dataLancamento": "27/04/2015",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/220200/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/220200",
+    "generos": [
+      "Simulação",
+      "Estratégia",
+      "Construção"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 8.6,
+    "premios": null
+  },
+  {
+    "titulo": "Crusader Kings III",
+    "descricao": "Um jogo de estratégia grandiosa onde os jogadores assumem o controle de uma linhagem medieval por gerações, focando em intrigas, casamentos e guerra dinástica.",
+    "desenvolvedora": "Paradox Development Studio",
+    "publicadora": "Paradox Interactive",
+    "dataLancamento": "01/09/2020",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1158310/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1158310",
+    "generos": [
+      "Estratégia",
+      "RPG",
+      "Grand Strategy"
+    ],
+    "metacriticCritics": 91,
+    "metacriticUsers": 8.2,
+    "premios": [
+      {
+        "ano": 2020,
+        "organizacao": "PC Gamer",
+        "titulo": "Jogo de Estratégia do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Planet Coaster",
+    "descricao": "Um simulador de gerenciamento de parque temático que permite aos jogadores criar e administrar parques de diversões, construindo montanhas-russas detalhadas e personalizadas.",
+    "desenvolvedora": "Frontier Developments",
+    "publicadora": "Frontier Developments",
+    "dataLancamento": "17/11/2016",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/493340/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/493340",
+    "generos": [
+      "Simulação",
+      "Estratégia",
+      "Construção e Gerenciamento"
+    ],
+    "metacriticCritics": 84,
+    "metacriticUsers": 8.4,
+    "premios": null
+  },
+  {
+    "titulo": "Frostpunk",
+    "descricao": "Um jogo de estratégia de sobrevivência em uma sociedade congelada, onde os jogadores devem gerenciar recursos e tomar decisões morais difíceis para garantir a sobrevivência de sua cidade.",
+    "desenvolvedora": "11 bit studios",
+    "publicadora": "11 bit studios",
+    "dataLancamento": "24/04/2018",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/323190/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/323190",
+    "generos": [
+      "Estratégia",
+      "Simulação",
+      "Sobrevivência"
+    ],
+    "metacriticCritics": 84,
+    "metacriticUsers": 8.3,
+    "premios": null
+  },
+  {
+    "titulo": "Path of Exile",
+    "descricao": "Um RPG de ação online gratuito focado em combate visceral, personalização profunda de personagens e um vasto e complexo sistema de habilidades.",
+    "desenvolvedora": "Grinding Gear Games",
+    "publicadora": "Grinding Gear Games",
+    "dataLancamento": "23/10/2013",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/238960/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/238960",
+    "generos": [
+      "RPG de Ação",
+      "Grátis para Jogar",
+      "Hack and Slash"
+    ],
+    "metacriticCritics": 86,
+    "metacriticUsers": 8.3,
+    "premios": null
+  },
+  {
+    "titulo": "Left 4 Dead 2",
+    "descricao": "Um jogo cooperativo de tiro em primeira pessoa onde quatro sobreviventes lutam contra hordas de zumbis infectados em vários cenários de campanha.",
+    "desenvolvedora": "Valve Corporation",
+    "publicadora": "Valve Corporation",
+    "dataLancamento": "17/11/2009",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/550",
+    "generos": [
+      "FPS",
+      "Cooperativo",
+      "Terror"
+    ],
+    "metacriticCritics": 89,
+    "metacriticUsers": 8.5,
+    "premios": [
+      {
+        "ano": 2009,
+        "organizacao": "IGN",
+        "titulo": "Melhor Jogo Multiplayer (Xbox 360)"
+      }
+    ]
+  },
+  {
+    "titulo": "A Hat in Time",
+    "descricao": "Um charmoso jogo de plataforma 3D que segue Hat Kid, uma garota que costura chapéus mágicos, em sua jornada para recuperar \"Time Pieces\" perdidas.",
+    "desenvolvedora": "Gears for Breakfast",
+    "publicadora": "Gears for Breakfast",
+    "dataLancamento": "05/10/2017",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/253230/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/253230",
+    "generos": [
+      "Plataforma 3D",
+      "Aventura",
+      "Indie"
+    ],
+    "metacriticCritics": 86,
+    "metacriticUsers": 8.5,
+    "premios": null
+  },
+  {
+    "titulo": "Dota 2",
+    "descricao": "Um jogo de arena de batalha multiplayer online (MOBA) altamente competitivo onde duas equipes de cinco heróis lutam para destruir a 'Ancient' inimiga.",
+    "desenvolvedora": "Valve Corporation",
+    "publicadora": "Valve Corporation",
+    "dataLancamento": "09/07/2013",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/570",
+    "generos": [
+      "MOBA",
+      "Estratégia",
+      "eSports"
+    ],
+    "metacriticCritics": 90,
+    "metacriticUsers": 7.9,
+    "premios": [
+      {
+        "ano": 2017,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo de eSports"
+      }
+    ]
+  },
+  {
+    "titulo": "Ghost of Tsushima Director's Cut",
+    "descricao": "Um jogo de ação e aventura em mundo aberto onde o jogador assume o papel de Jin Sakai, um samurai em uma missão para proteger a Ilha de Tsushima durante a primeira invasão mongol do Japão.",
+    "desenvolvedora": "Sucker Punch Productions, Nixxes Software",
+    "publicadora": "Sony Interactive Entertainment",
+    "dataLancamento": "2020-07-17",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/2215430/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/2215430",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Mundo Aberto",
+      "Stealth"
+    ],
+    "metacriticCritics": 90,
+    "metacriticUsers": 9.1,
+    "premios": [
+      {
+        "ano": 2020,
+        "organizacao": "The Game Awards",
+        "titulo": "Escolha dos Jogadores"
+      }
+    ]
+  },
+  {
+    "titulo": "Microsoft Flight Simulator",
+    "descricao": "Um simulador de voo realista que utiliza dados de satélite e inteligência artificial para renderizar o planeta inteiro em detalhes impressionantes, permitindo aos jogadores pilotar aeronaves em qualquer lugar do mundo.",
+    "desenvolvedora": "Asobo Studio",
+    "publicadora": "Xbox Game Studios",
+    "dataLancamento": "2020-08-18",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1250410/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1250410",
+    "generos": [
+      "Simulação"
+    ],
+    "metacriticCritics": 92,
+    "metacriticUsers": 7.7,
+    "premios": [
+      {
+        "ano": 2020,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo de Simulação/Estratégia"
+      }
+    ]
+  },
+  {
+    "titulo": "Sid Meier's Civilization V",
+    "descricao": "Um jogo de estratégia em turnos onde o objetivo é construir um império que resista ao teste do tempo. O jogador pode alcançar a vitória militarmente, tecnologicamente, culturalmente ou diplomaticamente.",
+    "desenvolvedora": "Firaxis Games",
+    "publicadora": "2K Games",
+    "dataLancamento": "2010-09-21",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/8930/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/8930",
+    "generos": [
+      "Estratégia",
+      "4X",
+      "Em Turnos"
+    ],
+    "metacriticCritics": 90,
+    "metacriticUsers": 8,
+    "premios": null
+  },
+  {
+    "titulo": "Metro 2033 Redux",
+    "descricao": "Um remake do aclamado FPS de terror e sobrevivência que se passa nas ruínas de uma Moscou pós-apocalíptica, onde os sobreviventes se refugiaram nas estações de metrô.",
+    "desenvolvedora": "4A Games",
+    "publicadora": "Deep Silver",
+    "dataLancamento": "2014-08-26",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/286690",
+    "generos": [
+      "FPS",
+      "Survival Horror",
+      "Pós-Apocalíptico"
+    ],
+    "metacriticCritics": 84,
+    "metacriticUsers": 8.1,
+    "premios": null
+  },
+  {
+    "titulo": "Alien: Isolation",
+    "descricao": "Um jogo de survival horror ambientado quinze anos após os eventos de Alien, onde a filha de Ellen Ripley, Amanda, busca a verdade sobre o desaparecimento de sua mãe e se vê perseguida por um Xenomorfo em uma estação espacial.",
+    "desenvolvedora": "Creative Assembly",
+    "publicadora": "Sega",
+    "dataLancamento": "2014-10-07",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/214490/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/214490",
+    "generos": [
+      "Survival Horror",
+      "Stealth",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 81,
+    "metacriticUsers": 8.6,
+    "premios": [
+      {
+        "ano": 2014,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Áudio"
+      }
+    ]
+  },
+  {
+    "titulo": "Batman: Arkham City",
+    "descricao": "A sequência aclamada de Batman: Arkham Asylum, onde Batman é forçado a entrar em uma nova e vasta prisão chamada Arkham City e deve expor a conspiração por trás de seu supervisor, Hugo Strange.",
+    "desenvolvedora": "Rocksteady Studios",
+    "publicadora": "Warner Bros. Interactive Entertainment",
+    "dataLancamento": "2011-11-22",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/200260/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/200260",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Super-herói"
+    ],
+    "metacriticCritics": 96,
+    "metacriticUsers": 8.8,
+    "premios": [
+      {
+        "ano": 2011,
+        "organizacao": "Spike Video Game Awards",
+        "titulo": "Jogo do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "The Talos Principle",
+    "descricao": "Um jogo de quebra-cabeça filosófico em primeira pessoa, onde o jogador assume o papel de uma inteligência artificial que deve resolver enigmas complexos enquanto explora ruínas e questiona a natureza da existência.",
+    "desenvolvedora": "Croteam",
+    "publicadora": "Devolver Digital",
+    "dataLancamento": "2014-12-11",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/257510/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/257510",
+    "generos": [
+      "Quebra-Cabeça",
+      "Aventura",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 8.4,
+    "premios": null
+  },
+  {
+    "titulo": "Star Wars: Knights of the Old Republic",
+    "descricao": "Um RPG clássico ambientado 4.000 anos antes dos filmes de Star Wars, onde o jogador deve liderar um grupo de heróis e vilões para salvar a República de um Lorde Sith, fazendo escolhas que definem seu caminho para o Lado Claro ou Sombrio da Força.",
+    "desenvolvedora": "BioWare",
+    "publicadora": "LucasArts",
+    "dataLancamento": "2003-11-19",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/32370/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/32370",
+    "generos": [
+      "RPG",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 93,
+    "metacriticUsers": 9.1,
+    "premios": [
+      {
+        "ano": 2003,
+        "organizacao": "Game Developers Choice Awards",
+        "titulo": "Jogo do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Rayman Legends",
+    "descricao": "Um jogo de plataforma 2D vibrante e frenético, conhecido por seu design de níveis criativo, jogabilidade cooperativa e uso rítmico de música.",
+    "desenvolvedora": "Ubisoft Montpellier",
+    "publicadora": "Ubisoft",
+    "dataLancamento": "2013-09-03",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/242550/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/242550",
+    "generos": [
+      "Plataforma",
+      "Aventura",
+      "Co-op"
+    ],
+    "metacriticCritics": 91,
+    "metacriticUsers": 8.7,
+    "premios": null
+  },
+  {
+    "titulo": "Pillars of Eternity",
+    "descricao": "Um RPG isométrico de fantasia de alto nível, sucessor espiritual de jogos clássicos como Baldur's Gate, que apresenta um sistema de combate tático em tempo real com pausa e uma narrativa profunda baseada em escolhas.",
+    "desenvolvedora": "Obsidian Entertainment",
+    "publicadora": "Paradox Interactive",
+    "dataLancamento": "2015-03-26",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/291650/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/291650",
+    "generos": [
+      "RPG",
+      "Fantasia",
+      "Isométrico"
+    ],
+    "metacriticCritics": 89,
+    "metacriticUsers": 8.4,
+    "premios": null
+  },
+  {
+    "titulo": "Middle-earth: Shadow of Mordor",
+    "descricao": "Um jogo de ação e aventura ambientado no universo de O Senhor dos Anéis, famoso por introduzir o inovador 'Sistema Nêmesis', onde os inimigos Orcs lembram e reagem às interações anteriores com o jogador.",
+    "desenvolvedora": "Monolith Productions",
+    "publicadora": "Warner Bros. Interactive Entertainment",
+    "dataLancamento": "2014-09-30",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/241930/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/241930",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Mundo Aberto"
+    ],
+    "metacriticCritics": 87,
+    "metacriticUsers": 8.4,
+    "premios": [
+      {
+        "ano": 2014,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo de Ação/Aventura"
+      }
+    ]
+  },
+  {
+    "titulo": "Dishonored",
+    "descricao": "Um jogo de stealth e ação em primeira pessoa onde o jogador assume o papel de Corvo Attano, um guarda-costas transformado em assassino com poderes sobrenaturais em uma cidade distópica atingida pela praga.",
+    "desenvolvedora": "Arkane Studios",
+    "publicadora": "Bethesda Softworks",
+    "dataLancamento": "2012-10-09",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/205100/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/205100",
+    "generos": [
+      "Stealth",
+      "Ação",
+      "FPS",
+      "Immersive Sim"
+    ],
+    "metacriticCritics": 91,
+    "metacriticUsers": 8.5,
+    "premios": [
+      {
+        "ano": 2012,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Jogo"
+      }
+    ]
+  },
+  {
+    "titulo": "Titanfall 2",
+    "descricao": "Um jogo de tiro em primeira pessoa que combina combate rápido a pé com a pilotagem de mechas poderosos (Titans). É aclamado por sua campanha single-player inovadora e bem projetada.",
+    "desenvolvedora": "Respawn Entertainment",
+    "publicadora": "Electronic Arts",
+    "dataLancamento": "2016-10-28",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1237970/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1237970",
+    "generos": [
+      "FPS",
+      "Ação",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 89,
+    "metacriticUsers": 8.7,
+    "premios": null
+  },
+  {
+    "titulo": "Star Wars Jedi: Survivor",
+    "descricao": "A sequência de Fallen Order, este jogo de ação e aventura em terceira pessoa continua a jornada de Cal Kestis enquanto ele tenta se manter um passo à frente do Império em um universo em colapso.",
+    "desenvolvedora": "Respawn Entertainment",
+    "publicadora": "Electronic Arts",
+    "dataLancamento": "2023-04-28",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1774580/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1774580",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Soulslike"
+    ],
+    "metacriticCritics": 85,
+    "metacriticUsers": 7.6,
+    "premios": null
+  },
+  {
+    "titulo": "Marvel's Spider-Man: Miles Morales",
+    "descricao": "Um jogo de ação e aventura onde o jogador controla Miles Morales, que deve assumir o papel de Homem-Aranha e defender Nova York de uma guerra entre uma corporação de energia e um grupo criminoso de alta tecnologia.",
+    "desenvolvedora": "Insomniac Games, Nixxes Software",
+    "publicadora": "Sony Interactive Entertainment",
+    "dataLancamento": "2022-11-18",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817190/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1817190",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Super-herói",
+      "Mundo Aberto"
+    ],
+    "metacriticCritics": 85,
+    "metacriticUsers": 8.2,
+    "premios": null
+  },
+  {
+    "titulo": "Returnal",
+    "descricao": "Um jogo de tiro em terceira pessoa com elementos de roguelike e bullet hell, onde a astronauta Selene fica presa em um loop temporal em um planeta alienígena hostil e em constante mudança.",
+    "desenvolvedora": "Housemarque",
+    "publicadora": "Sony Interactive Entertainment",
+    "dataLancamento": "2023-02-15",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1649240/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1649240",
+    "generos": [
+      "Roguelike",
+      "Tiro",
+      "Ação",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 86,
+    "metacriticUsers": 7.9,
+    "premios": [
+      {
+        "ano": 2021,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Jogo"
+      }
+    ]
+  },
+  {
+    "titulo": "Doom 3",
+    "descricao": "Um FPS de terror e ficção científica focado na atmosfera, onde um fuzileiro naval luta contra uma invasão demoníaca em uma instalação de pesquisa da UAC em Marte.",
+    "desenvolvedora": "id Software",
+    "publicadora": "Activision",
+    "dataLancamento": "2004-08-03",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/9050/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/9050",
+    "generos": [
+      "FPS",
+      "Survival Horror",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 87,
+    "metacriticUsers": 8.2,
+    "premios": null
+  },
+  {
+    "titulo": "Monkey Island 2 Special Edition: LeChuck's Revenge",
+    "descricao": "Uma remasterização do clássico jogo de aventura point-and-click da LucasArts, que segue o aspirante a pirata Guybrush Threepwood em sua busca pelo lendário tesouro Big Whoop.",
+    "desenvolvedora": "LucasArts",
+    "publicadora": "LucasArts",
+    "dataLancamento": "2010-07-07",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/32460/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/32460",
+    "generos": [
+      "Aventura",
+      "Point-and-Click",
+      "Comédia"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 8.7,
+    "premios": null
+  },
+  {
+    "titulo": "Warhammer 40,000: Dawn of War II",
+    "descricao": "Um jogo de estratégia em tempo real focado em esquadrões e táticas, onde o jogador comanda pequenas unidades de Marines Espaciais em missões brutais no universo de Warhammer 40,000.",
+    "desenvolvedora": "Relic Entertainment",
+    "publicadora": "THQ",
+    "dataLancamento": "2009-02-19",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/15620/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/15620",
+    "generos": [
+      "Estratégia em Tempo Real",
+      "RTS",
+      "Tático"
+    ],
+    "metacriticCritics": 85,
+    "metacriticUsers": 8,
+    "premios": null
+  },
+  {
+    "titulo": "Transistor",
+    "descricao": "Um RPG de ação de ficção científica com perspectiva isométrica, criado pelos desenvolvedores de Hades. Ele apresenta um sistema de combate tático único que permite ao jogador pausar a ação e planejar seus movimentos.",
+    "desenvolvedora": "Supergiant Games",
+    "publicadora": "Supergiant Games",
+    "dataLancamento": "2014-05-20",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/237930/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/237930",
+    "generos": [
+      "RPG de Ação",
+      "Ficção Científica",
+      "Isométrico"
+    ],
+    "metacriticCritics": 83,
+    "metacriticUsers": 8,
+    "premios": null
+  },
+  {
+    "titulo": "The Banner Saga",
+    "descricao": "Um RPG tático com forte foco narrativo, inspirado na cultura viking. O jogo apresenta combate em turnos e decisões permanentes que afetam a sobrevivência do seu grupo de viajantes.",
+    "desenvolvedora": "Stoic Studio",
+    "publicadora": "Versus Evil",
+    "dataLancamento": "2014-01-14",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/237990/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/237990",
+    "generos": [
+      "RPG Tático",
+      "Estratégia",
+      "Fantasia"
+    ],
+    "metacriticCritics": 82,
+    "metacriticUsers": 8.3,
+    "premios": null
+  },
+  {
+    "titulo": "Team Fortress 2",
+    "descricao": "Um jogo multiplayer de tiro em primeira pessoa baseado em classes, conhecido por seu estilo de arte cartunesco, jogabilidade focada em objetivos e senso de humor.",
+    "desenvolvedora": "Valve",
+    "publicadora": "Valve",
+    "dataLancamento": "2007-10-10",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/440/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/440",
+    "generos": [
+      "FPS",
+      "Multiplayer",
+      "Ação"
+    ],
+    "metacriticCritics": 92,
+    "metacriticUsers": 8.6,
+    "premios": null
+  },
+  {
+    "titulo": "RimWorld",
+    "descricao": "Um simulador de colônia de construção e gerenciamento impulsionado por uma IA 'Storyteller' que gera eventos aleatórios, criando histórias dramáticas e muitas vezes trágicas para os colonos em um planeta hostil.",
+    "desenvolvedora": "Ludeon Studios",
+    "publicadora": "Ludeon Studios",
+    "dataLancamento": "2018-10-17",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/294100/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/294100",
+    "generos": [
+      "Simulação",
+      "Estratégia",
+      "Construção de Cidade"
+    ],
+    "metacriticCritics": 87,
+    "metacriticUsers": 8.9,
+    "premios": null
+  },
+  {
+    "titulo": "Age of Empires IV",
+    "descricao": "A quarta parcela principal da lendária série de estratégia em tempo real, que retorna às suas raízes históricas, permitindo aos jogadores comandar civilizações desde a Idade Média até o início da Idade Moderna.",
+    "desenvolvedora": "Relic Entertainment, World's Edge",
+    "publicadora": "Xbox Game Studios",
+    "dataLancamento": "2021-10-28",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1466860/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1466860",
+    "generos": [
+      "Estratégia em Tempo Real",
+      "Histórico",
+      "RTS"
+    ],
+    "metacriticCritics": 81,
+    "metacriticUsers": 7.7,
+    "premios": null
+  },
+  {
+    "titulo": "Sea of Stars",
+    "descricao": "Um RPG em turnos inspirado em clássicos do gênero, contando a história de dois Filhos do Solstício que combinam seus poderes de Sol e Lua para executar Magia de Eclipse, a única força capaz de derrotar o malvado Fleshmancer.",
+    "desenvolvedora": "Sabotage Studio",
+    "publicadora": "Sabotage Studio",
+    "dataLancamento": "2023-08-29",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1244090/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1244090",
+    "generos": [
+      "RPG",
+      "Em Turnos",
+      "Pixel Art"
+    ],
+    "metacriticCritics": 91,
+    "metacriticUsers": 8.4,
+    "premios": [
+      {
+        "ano": 2023,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo Indie"
+      }
+    ]
+  },
+  {
+    "titulo": "Cyberpunk 2077",
+    "descricao": "Um RPG de ação e aventura em mundo aberto ambientado em Night City, uma megalópole obcecada por poder, glamour e modificações corporais. Você joga como V, um mercenário fora da lei em busca de um implante único que é a chave para a imortalidade.",
+    "desenvolvedora": "CD Projekt Red",
+    "publicadora": "CD Projekt",
+    "dataLancamento": "2020-12-10",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1091500",
+    "generos": [
+      "RPG",
+      "Ação",
+      "Mundo Aberto"
+    ],
+    "metacriticCritics": 86,
+    "metacriticUsers": 7.1,
+    "premios": [
+      {
+        "ano": 2023,
+        "organizacao": "Golden Joystick Awards",
+        "titulo": "Still Playing Award (Pela atualização 2.0 e Phantom Liberty)"
+      },
+      {
+        "ano": 2020,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor RPG"
+      }
+    ]
+  },
+  {
+    "titulo": "Stellaris",
+    "descricao": "Um jogo de estratégia 4X com foco em exploração profunda e narrativa. O jogador deve construir um império estelar, gerenciar diplomacia complexa e travar guerras galácticas.",
+    "desenvolvedora": "Paradox Development Studio",
+    "publicadora": "Paradox Interactive",
+    "dataLancamento": "2016-05-09",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/281990/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/281990",
+    "generos": [
+      "Estratégia",
+      "4X",
+      "Sci-Fi"
+    ],
+    "metacriticCritics": 78,
+    "metacriticUsers": 7.9,
+    "premios": null
+  },
+  {
+    "titulo": "Batman: Arkham Asylum",
+    "descricao": "O primeiro jogo da aclamada série Arkham, onde Batman deve conter uma rebelião liderada pelo Coringa dentro do Asilo Arkham, enfrentando alguns de seus vilões mais notórios.",
+    "desenvolvedora": "Rocksteady Studios",
+    "publicadora": "Eidos Interactive",
+    "dataLancamento": "2009-08-25",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/35140/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/35140",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Stealth"
+    ],
+    "metacriticCritics": 92,
+    "metacriticUsers": 8.7,
+    "premios": [
+      {
+        "ano": 2010,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Jogo"
+      }
+    ]
+  },
+  {
+    "titulo": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "descricao": "A segunda aventura de Geralt de Rivia, focada em intrigas políticas e na caça a um assassino de reis, introduzindo escolhas morais complexas com consequências significativas.",
+    "desenvolvedora": "CD Projekt Red",
+    "publicadora": "CD Projekt",
+    "dataLancamento": "2011-05-17",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/20920/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/20920",
+    "generos": [
+      "RPG",
+      "Aventura",
+      "Fantasia"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 8.4,
+    "premios": null
+  },
+  {
+    "titulo": "SOMA",
+    "descricao": "Um jogo de terror de sobrevivência e ficção científica dos criadores de Amnesia. O jogador acorda em uma instalação subaquática abandonada, onde máquinas começaram a ganhar consciência humana.",
+    "desenvolvedora": "Frictional Games",
+    "publicadora": "Frictional Games",
+    "dataLancamento": "2015-09-22",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/348340/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/348340",
+    "generos": [
+      "Terror",
+      "Sci-Fi",
+      "Aventura"
+    ],
+    "metacriticCritics": 84,
+    "metacriticUsers": 8.3,
+    "premios": null
+  },
+  {
+    "titulo": "Sid Meier's Civilization IV",
+    "descricao": "Um jogo de estratégia 4X baseado em turnos onde os jogadores constroem um império do zero através de eras, desde a pré-história até a era espacial.",
+    "desenvolvedora": "Firaxis Games",
+    "publicadora": "2K Games",
+    "dataLancamento": "2005-10-25",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/3900/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/3900",
+    "generos": [
+      "Estratégia",
+      "4X",
+      "Histórico"
+    ],
+    "metacriticCritics": 94,
+    "metacriticUsers": 9,
+    "premios": [
+      {
+        "ano": 2005,
+        "organizacao": "IGN",
+        "titulo": "Jogo do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Elite Dangerous",
+    "descricao": "Um épico MMO de simulação espacial que recria a Via Láctea em escala 1:1. Os jogadores podem negociar, lutar, explorar e sobreviver em uma galáxia em constante evolução.",
+    "desenvolvedora": "Frontier Developments",
+    "publicadora": "Frontier Developments",
+    "dataLancamento": "2014-12-16",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/359320/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/359320",
+    "generos": [
+      "Simulação",
+      "Espaço",
+      "MMO"
+    ],
+    "metacriticCritics": 80,
+    "metacriticUsers": 7.3,
+    "premios": null
+  },
+  {
+    "titulo": "Dead Space (2008)",
+    "descricao": "Um jogo de terror de sobrevivência de ficção científica ambientado na nave espacial mineradora USG Ishimura, que foi invadida por monstros alienígenas reanimados chamados Necromorphs.",
+    "desenvolvedora": "EA Redwood Shores",
+    "publicadora": "Electronic Arts",
+    "dataLancamento": "2008-10-14",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/17470/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/17470",
+    "generos": [
+      "Terror de Sobrevivência",
+      "Ação",
+      "Sci-Fi"
+    ],
+    "metacriticCritics": 86,
+    "metacriticUsers": 8.6,
+    "premios": null
+  },
+  {
+    "titulo": "Call of Duty 4: Modern Warfare",
+    "descricao": "Um marco nos jogos de tiro em primeira pessoa, que moveu a série Call of Duty para o combate moderno, apresentando uma campanha cinematográfica e um modo multijogador revolucionário.",
+    "desenvolvedora": "Infinity Ward",
+    "publicadora": "Activision",
+    "dataLancamento": "2007-11-05",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/7940/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/7940",
+    "generos": [
+      "FPS",
+      "Ação",
+      "Militar"
+    ],
+    "metacriticCritics": 92,
+    "metacriticUsers": 8.5,
+    "premios": [
+      {
+        "ano": 2007,
+        "organizacao": "Academy of Interactive Arts & Sciences (D.I.C.E.)",
+        "titulo": "Jogo do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Resident Evil 7 Biohazard",
+    "descricao": "O sétimo título principal da série, que redefiniu o horror de sobrevivência ao mudar para uma perspectiva de primeira pessoa e focar em uma atmosfera de terror psicológico claustrofóbico.",
+    "desenvolvedora": "Capcom",
+    "publicadora": "Capcom",
+    "dataLancamento": "2017-01-24",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/418370/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/418370",
+    "generos": [
+      "Terror de Sobrevivência",
+      "FPS",
+      "Aventura"
+    ],
+    "metacriticCritics": 86,
+    "metacriticUsers": 8.2,
+    "premios": [
+      {
+        "ano": 2017,
+        "organizacao": "Golden Joystick Awards",
+        "titulo": "Melhor Jogo de VR"
+      }
+    ]
+  },
+  {
+    "titulo": "Warhammer 40,000: Dawn of War",
+    "descricao": "Um jogo de estratégia em tempo real ambientado no universo sombrio de Warhammer 40,000, focado em combate tático e controle de pontos de recurso.",
+    "desenvolvedora": "Relic Entertainment",
+    "publicadora": "THQ",
+    "dataLancamento": "2004-09-20",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/4570/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/4570",
+    "generos": [
+      "Estratégia em Tempo Real (RTS)",
+      "Sci-Fi"
+    ],
+    "metacriticCritics": 86,
+    "metacriticUsers": 8.6,
+    "premios": null
+  },
+  {
+    "titulo": "Saints Row: The Third",
+    "descricao": "Um jogo de ação e aventura em mundo aberto conhecido por seu humor exagerado e jogabilidade caótica, onde o jogador lidera a gangue Third Street Saints.",
+    "desenvolvedora": "Volition",
+    "publicadora": "THQ",
+    "dataLancamento": "2011-11-15",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/55230/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/55230",
+    "generos": [
+      "Ação",
+      "Mundo Aberto",
+      "Comédia"
+    ],
+    "metacriticCritics": 84,
+    "metacriticUsers": 8,
+    "premios": null
+  },
+  {
+    "titulo": "Borderlands 2",
+    "descricao": "Um RPG de tiro em primeira pessoa com foco em pilhagem (loot) e jogabilidade cooperativa, conhecido por seu estilo de arte cel-shaded e milhões de armas geradas proceduralmente.",
+    "desenvolvedora": "Gearbox Software",
+    "publicadora": "2K Games",
+    "dataLancamento": "2012-09-18",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/49520/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/49520",
+    "generos": [
+      "Looter Shooter",
+      "RPG",
+      "FPS"
+    ],
+    "metacriticCritics": 89,
+    "metacriticUsers": 8.8,
+    "premios": [
+      {
+        "ano": 2012,
+        "organizacao": "Spike Video Game Awards",
+        "titulo": "Melhor Jogo de Tiro"
+      }
+    ]
+  },
+  {
+    "titulo": "Life Is Strange",
+    "descricao": "Um jogo de aventura gráfica episódico que segue a história de Max Caulfield, uma estudante de fotografia que descobre a capacidade de voltar no tempo.",
+    "desenvolvedora": "Dontnod Entertainment",
+    "publicadora": "Square Enix",
+    "dataLancamento": "2015-01-30",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/319630/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/319630",
+    "generos": [
+      "Aventura",
+      "Narrativo",
+      "Escolhas e Consequências"
+    ],
+    "metacriticCritics": 83,
+    "metacriticUsers": 8.8,
+    "premios": [
+      {
+        "ano": 2016,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor História"
+      }
+    ]
+  },
+  {
+    "titulo": "Prey (2006)",
+    "descricao": "Um FPS de ficção científica conhecido por sua mecânica de portais e manipulação de gravidade, onde o protagonista Tommy deve salvar sua família de uma invasão alienígena a bordo de uma nave viva.",
+    "desenvolvedora": "Human Head Studios",
+    "publicadora": "2K Games",
+    "dataLancamento": "2006-07-11",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/3970/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/3970",
+    "generos": [
+      "FPS",
+      "Sci-Fi",
+      "Ação"
+    ],
+    "metacriticCritics": 83,
+    "metacriticUsers": 7.9,
+    "premios": null
+  },
+  {
+    "titulo": "Star Wars: Battlefront II (2005)",
+    "descricao": "O clássico jogo de tiro que permite aos jogadores lutar em batalhas icônicas da saga Star Wars, apresentando tanto campanhas terrestres quanto espaciais.",
+    "desenvolvedora": "Pandemic Studios",
+    "publicadora": "LucasArts",
+    "dataLancamento": "2005-10-31",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/6060/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/6060",
+    "generos": [
+      "FPS",
+      "Ação",
+      "Sci-Fi"
+    ],
+    "metacriticCritics": 78,
+    "metacriticUsers": 8.7,
+    "premios": null
+  },
+  {
+    "titulo": "Pathfinder: Wrath of the Righteous",
+    "descricao": "Um RPG isométrico baseado no sistema de regras Pathfinder, onde o jogador lidera uma cruzada contra demônios, com vastas opções de classes e caminhos morais, incluindo a transformação em um Lich ou Anjo.",
+    "desenvolvedora": "Owlcat Games",
+    "publicadora": "META Publishing",
+    "dataLancamento": "2021-09-02",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1184370/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1184370",
+    "generos": [
+      "RPG",
+      "Fantasia",
+      "Estratégia Tática"
+    ],
+    "metacriticCritics": 84,
+    "metacriticUsers": 8.3,
+    "premios": null
+  },
+  {
+    "titulo": "Batman: Arkham Knight",
+    "descricao": "O final da trilogia Arkham, onde Batman enfrenta o Espantalho e o misterioso Cavaleiro de Arkham, e pela primeira vez, o jogador pode dirigir o Batmóvel.",
+    "desenvolvedora": "Rocksteady Studios",
+    "publicadora": "Warner Bros. Interactive Entertainment",
+    "dataLancamento": "2015-06-23",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/208650/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/208650",
+    "generos": [
+      "Ação",
+      "Mundo Aberto",
+      "Aventura"
+    ],
+    "metacriticCritics": 87,
+    "metacriticUsers": 7.7,
+    "premios": [
+      {
+        "ano": 2015,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo de Ação/Aventura"
+      }
+    ]
+  },
+  {
+    "titulo": "Danganronpa V3: Killing Harmony",
+    "descricao": "Um jogo de aventura visual novel que combina investigação e julgamentos de classe em um cenário de matar ou ser morto, com um elenco totalmente novo de estudantes presos.",
+    "desenvolvedora": "Spike Chunsoft",
+    "publicadora": "Spike Chunsoft",
+    "dataLancamento": "2017-09-26",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/567640/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/567640",
+    "generos": [
+      "Visual Novel",
+      "Mistério",
+      "Terror Psicológico"
+    ],
+    "metacriticCritics": 84,
+    "metacriticUsers": 8.5,
+    "premios": null
+  },
+  {
+    "titulo": "The Elder Scrolls III: Morrowind",
+    "descricao": "Um RPG de mundo aberto massivo e profundo que se passa na ilha vulcânica de Vvardenfell. Conhecido por sua liberdade de escolha e lore rica.",
+    "desenvolvedora": "Bethesda Game Studios",
+    "publicadora": "Bethesda Softworks",
+    "dataLancamento": "2002-05-01",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/22320/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/22320",
+    "generos": [
+      "RPG",
+      "Mundo Aberto",
+      "Fantasia"
+    ],
+    "metacriticCritics": 89,
+    "metacriticUsers": 9.1,
+    "premios": [
+      {
+        "ano": 2002,
+        "organizacao": "Game Critics Awards",
+        "titulo": "Melhor RPG"
+      }
+    ]
+  },
+  {
+    "titulo": "Max Payne 3",
+    "descricao": "Um jogo de tiro em terceira pessoa que continua a história do ex-detetive Max Payne, agora trabalhando como segurança privada em São Paulo, Brasil, e lidando com seu passado traumático.",
+    "desenvolvedora": "Rockstar Studios",
+    "publicadora": "Rockstar Games",
+    "dataLancamento": "2012-05-29",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/20410/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/20410",
+    "generos": [
+      "Ação",
+      "TPS",
+      "Neo-Noir"
+    ],
+    "metacriticCritics": 87,
+    "metacriticUsers": 7.5,
+    "premios": [
+      {
+        "ano": 2012,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Design de Áudio"
+      }
+    ]
+  },
+  {
+    "titulo": "FTL: Faster Than Light",
+    "descricao": "Um simulador de nave espacial roguelike onde o jogador deve gerenciar a tripulação, os sistemas de energia e o combate tático de uma nave enquanto tenta entregar informações cruciais através de uma galáxia perigosa.",
+    "desenvolvedora": "Subset Games",
+    "publicadora": "Subset Games",
+    "dataLancamento": "2012-09-14",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/212680/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/212680",
+    "generos": [
+      "Roguelike",
+      "Estratégia",
+      "Simulação"
+    ],
+    "metacriticCritics": 84,
+    "metacriticUsers": 8.5,
+    "premios": [
+      {
+        "ano": 2013,
+        "organizacao": "Independent Games Festival (IGF)",
+        "titulo": "Excelência em Design"
+      }
+    ]
+  },
+  {
+    "titulo": "Firewatch",
+    "descricao": "Um mistério de aventura em primeira pessoa ambientado na natureza selvagem de Wyoming, onde você é um guarda florestal que se comunica apenas por rádio com seu supervisor, enquanto eventos estranhos começam a ocorrer.",
+    "desenvolvedora": "Campo Santo",
+    "publicadora": "Panic Inc.",
+    "dataLancamento": "2016-02-09",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/383870/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/383870",
+    "generos": [
+      "Aventura",
+      "Narrativo",
+      "Walking Simulator"
+    ],
+    "metacriticCritics": 81,
+    "metacriticUsers": 8.1,
+    "premios": [
+      {
+        "ano": 2017,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Jogo de Estreia"
+      }
+    ]
+  },
+  {
+    "titulo": "System Shock (Remake)",
+    "descricao": "Um remake completo do icônico jogo de 1994, que combina tiro em primeira pessoa com elementos de RPG e terror de sobrevivência. O jogador deve frustrar os planos da IA desonesta SHODAN.",
+    "desenvolvedora": "Nightdive Studios",
+    "publicadora": "Prime Matter",
+    "dataLancamento": "2023-05-30",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/482400/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/482400",
+    "generos": [
+      "Immersive Sim",
+      "FPS",
+      "Sci-Fi"
+    ],
+    "metacriticCritics": 80,
+    "metacriticUsers": 7.9,
+    "premios": null
+  },
+  {
+    "titulo": "Star Wars: Knights of the Old Republic II - The Sith Lords",
+    "descricao": "Um RPG aclamado pela crítica que se passa cinco anos após o primeiro KOTOR. O jogador é um Jedi exilado que deve restaurar a conexão com a Força e lutar contra os Sith.",
+    "desenvolvedora": "Obsidian Entertainment",
+    "publicadora": "LucasArts",
+    "dataLancamento": "2004-12-06",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/208580/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/208580",
+    "generos": [
+      "RPG",
+      "Sci-Fi",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 85,
+    "metacriticUsers": 8.3,
+    "premios": null
+  },
+  {
+    "titulo": "Mass Effect 3",
+    "descricao": "O capítulo final da trilogia Mass Effect, onde o Comandante Shepard deve unir as civilizações galácticas para enfrentar a ameaça iminente dos Reapers.",
+    "desenvolvedora": "BioWare",
+    "publicadora": "Electronic Arts",
+    "dataLancamento": "2012-03-06",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1328670/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1328670",
+    "generos": [
+      "RPG",
+      "Ação",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 89,
+    "metacriticUsers": 5.9,
+    "premios": [
+      {
+        "ano": 2012,
+        "organizacao": "IGN",
+        "titulo": "Melhor RPG de Xbox 360"
+      }
+    ]
+  },
+  {
+    "titulo": "Dead Space 2",
+    "descricao": "Isaac Clarke retorna em uma nova luta desesperada pela sobrevivência contra os Necromorphs, explorando uma estação espacial em ruínas conhecida como 'The Sprawl'.",
+    "desenvolvedora": "Visceral Games",
+    "publicadora": "Electronic Arts",
+    "dataLancamento": "2011-01-25",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/47780/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/47780",
+    "generos": [
+      "Survival Horror",
+      "Ação",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 89,
+    "metacriticUsers": 8.4,
+    "premios": [
+      {
+        "ano": 2011,
+        "organizacao": "AIAS D.I.C.E. Awards",
+        "titulo": "Jogo de Ação do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Dark Souls III",
+    "descricao": "O último jogo da aclamada série Dark Souls, levando os jogadores a um mundo apocalíptico de Lordran, repleto de chefes desafiadores e narrativa ambiental.",
+    "desenvolvedora": "FromSoftware",
+    "publicadora": "Bandai Namco Entertainment",
+    "dataLancamento": "2016-04-12",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/374320",
+    "generos": [
+      "RPG de Ação",
+      "Aventura",
+      "Difícil"
+    ],
+    "metacriticCritics": 89,
+    "metacriticUsers": 8.8,
+    "premios": [
+      {
+        "ano": 2016,
+        "organizacao": "Golden Joystick Awards",
+        "titulo": "Melhor Jogo de RPG"
+      }
+    ]
+  },
+  {
+    "titulo": "Fallout 4",
+    "descricao": "Um RPG de mundo aberto pós-apocalíptico ambientado em Boston, onde o Sole Survivor busca seu filho após emergir de um bunker criogênico.",
+    "desenvolvedora": "Bethesda Game Studios",
+    "publicadora": "Bethesda Softworks",
+    "dataLancamento": "2015-11-10",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/377160",
+    "generos": [
+      "RPG",
+      "Mundo Aberto",
+      "Pós-apocalíptico"
+    ],
+    "metacriticCritics": 84,
+    "metacriticUsers": 5.7,
+    "premios": [
+      {
+        "ano": 2016,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Jogo"
+      }
+    ]
+  },
+  {
+    "titulo": "The Stanley Parable: Ultra Deluxe",
+    "descricao": "Uma expansão e reimaginação do jogo de aventura guiado por narrador, onde a escolha do jogador e a ausência dela são constantemente questionadas.",
+    "desenvolvedora": "Crows Crows Crows",
+    "publicadora": "Crows Crows Crows",
+    "dataLancamento": "2022-04-27",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1703340/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1703340",
+    "generos": [
+      "Aventura",
+      "Experimental",
+      "Narrativo"
+    ],
+    "metacriticCritics": 87,
+    "metacriticUsers": 8.4,
+    "premios": null
+  },
+  {
+    "titulo": "Deus Ex",
+    "descricao": "Um RPG de ação cyberpunk aclamado pela crítica que combina jogabilidade furtiva, combate e escolhas morais em um futuro distópico.",
+    "desenvolvedora": "Ion Storm",
+    "publicadora": "Eidos Interactive",
+    "dataLancamento": "2000-06-23",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/6910/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/6910",
+    "generos": [
+      "RPG",
+      "Cyberpunk",
+      "Immersive Sim"
+    ],
+    "metacriticCritics": 90,
+    "metacriticUsers": 9.1,
+    "premios": [
+      {
+        "ano": 2000,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Design de Jogo"
+      }
+    ]
+  },
+  {
+    "titulo": "Okami HD",
+    "descricao": "Um jogo de ação e aventura onde o jogador controla a deusa do sol Amaterasu, assumindo a forma de um lobo branco, para restaurar a beleza da terra japonesa.",
+    "desenvolvedora": "Clover Studio",
+    "publicadora": "Capcom",
+    "dataLancamento": "2017-12-12",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/587620/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/587620",
+    "generos": [
+      "Aventura",
+      "Quebra-cabeça",
+      "Mitologia"
+    ],
+    "metacriticCritics": 82,
+    "metacriticUsers": 8.4,
+    "premios": [
+      {
+        "ano": 2007,
+        "organizacao": "IGN",
+        "titulo": "Jogo do Ano (Wii)"
+      }
+    ]
+  },
+  {
+    "titulo": "Persona 3 Reload",
+    "descricao": "Um remake moderno do RPG clássico, seguindo um estudante transferido que descobre a 'Hora Oculta' e o poder de invocar Personas para lutar contra Sombras.",
+    "desenvolvedora": "Atlus",
+    "publicadora": "Sega",
+    "dataLancamento": "2024-02-02",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/2161700/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/2161700",
+    "generos": [
+      "JRPG",
+      "Simulação Social",
+      "Fantasia Urbana"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 8.4,
+    "premios": null
+  },
+  {
+    "titulo": "Dragon Age: Inquisition",
+    "descricao": "Um vasto RPG de fantasia onde o jogador lidera a Inquisição para fechar uma fenda mágica no céu e restaurar a ordem no continente de Thedas.",
+    "desenvolvedora": "BioWare",
+    "publicadora": "Electronic Arts",
+    "dataLancamento": "2014-11-18",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222690/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1222690",
+    "generos": [
+      "RPG",
+      "Fantasia",
+      "Mundo Aberto"
+    ],
+    "metacriticCritics": 85,
+    "metacriticUsers": 7.6,
+    "premios": [
+      {
+        "ano": 2014,
+        "organizacao": "The Game Awards",
+        "titulo": "Jogo do Ano"
+      }
+    ]
+  },
+  {
+    "titulo": "Warhammer 40,000: Darktide",
+    "descricao": "Um jogo cooperativo de tiro em primeira pessoa focado em combate corpo a corpo brutal, onde os jogadores lutam contra hordas de inimigos no mundo colmeia de Tertium.",
+    "desenvolvedora": "Fatshark",
+    "publicadora": "Fatshark",
+    "dataLancamento": "2022-11-30",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1361210/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1361210",
+    "generos": [
+      "Ação",
+      "Cooperativo",
+      "FPS"
+    ],
+    "metacriticCritics": 76,
+    "metacriticUsers": 6.9,
+    "premios": null
+  },
+  {
+    "titulo": "Dying Light 2 Stay Human",
+    "descricao": "Um RPG de ação e sobrevivência com parkour em um mundo pós-apocalíptico tomado por zumbis, onde a civilização caiu na Idade das Trevas moderna.",
+    "desenvolvedora": "Techland",
+    "publicadora": "Techland Publishing",
+    "dataLancamento": "2022-02-04",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/534380/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/534380",
+    "generos": [
+      "Survival Horror",
+      "RPG de Ação",
+      "Mundo Aberto"
+    ],
+    "metacriticCritics": 77,
+    "metacriticUsers": 6.8,
+    "premios": null
+  },
+  {
+    "titulo": "Forza Horizon 4",
+    "descricao": "Um jogo de corrida de mundo aberto ambientado em uma representação ficcional da Grã-Bretanha, famoso por seus sistemas de clima e estações dinâmicos.",
+    "desenvolvedora": "Playground Games",
+    "publicadora": "Xbox Game Studios",
+    "dataLancamento": "2018-10-02",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1293830/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1293830",
+    "generos": [
+      "Corrida",
+      "Mundo Aberto",
+      "Simulação"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 8.1,
+    "premios": [
+      {
+        "ano": 2018,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo de Esportes/Corrida"
+      }
+    ]
+  },
+  {
+    "titulo": "Gears 5",
+    "descricao": "O quinto capítulo principal da série Gears of War, focado em Kait Diaz enquanto ela investiga a origem de sua família e a conexão com a Horda Locust.",
+    "desenvolvedora": "The Coalition",
+    "publicadora": "Xbox Game Studios",
+    "dataLancamento": "2019-09-10",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1097840/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1097840",
+    "generos": [
+      "Tiro em Terceira Pessoa",
+      "Ação",
+      "Cooperativo"
+    ],
+    "metacriticCritics": 82,
+    "metacriticUsers": 6.7,
+    "premios": [
+      {
+        "ano": 2019,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo de Ação"
+      }
+    ]
+  },
+  {
+    "titulo": "Call of Duty: Modern Warfare 2 (2009)",
+    "descricao": "Sequência direta do aclamado CoD 4, envolvendo os jogadores em conflitos globais contra terroristas e forças ultranacionalistas russas.",
+    "desenvolvedora": "Infinity Ward",
+    "publicadora": "Activision",
+    "dataLancamento": "2009-11-10",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/10180/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/10180",
+    "generos": [
+      "FPS",
+      "Ação",
+      "Guerra"
+    ],
+    "metacriticCritics": 86,
+    "metacriticUsers": 6.2,
+    "premios": [
+      {
+        "ano": 2009,
+        "organizacao": "VGX Awards",
+        "titulo": "Melhor Shooter"
+      }
+    ]
+  },
+  {
+    "titulo": "The Sims 4",
+    "descricao": "Um jogo de simulação de vida onde os jogadores criam e controlam pessoas virtuais ('Sims') em seu dia a dia, construindo casas e carreiras.",
+    "desenvolvedora": "Maxis",
+    "publicadora": "Electronic Arts",
+    "dataLancamento": "2014-09-02",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1222670",
+    "generos": [
+      "Simulação",
+      "Vida",
+      "Estratégia"
+    ],
+    "metacriticCritics": 64,
+    "metacriticUsers": 3.9,
+    "premios": null
+  },
+  {
+    "titulo": "Cities: Skylines",
+    "descricao": "Um jogo de construção de cidades moderno que oferece simulação abrangente e a capacidade de criar, gerenciar e manter uma metrópole próspera.",
+    "desenvolvedora": "Colossal Order Ltd.",
+    "publicadora": "Paradox Interactive",
+    "dataLancamento": "2015-03-10",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/255710/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/255710",
+    "generos": [
+      "Simulação",
+      "Estratégia",
+      "Construção de Cidades"
+    ],
+    "metacriticCritics": 85,
+    "metacriticUsers": 8,
+    "premios": null
+  },
+  {
+    "titulo": "Battlefield 1",
+    "descricao": "Um jogo de tiro em primeira pessoa ambientado durante a Primeira Guerra Mundial, apresentando batalhas massivas e o uso de cavalos, tanques e aeronaves.",
+    "desenvolvedora": "EA DICE",
+    "publicadora": "Electronic Arts",
+    "dataLancamento": "2016-10-21",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1238840/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1238840",
+    "generos": [
+      "FPS",
+      "Guerra",
+      "Multijogador"
+    ],
+    "metacriticCritics": 88,
+    "metacriticUsers": 7.9,
+    "premios": [
+      {
+        "ano": 2016,
+        "organizacao": "Games Critics Awards",
+        "titulo": "Melhor Jogo de Ação"
+      }
+    ]
+  },
+  {
+    "titulo": "Wolfenstein II: The New Colossus",
+    "descricao": "BJ Blazkowicz continua sua luta contra o regime Nazista em uma América ocupada, combinando tiroteio intenso com uma narrativa ousada.",
+    "desenvolvedora": "MachineGames",
+    "publicadora": "Bethesda Softworks",
+    "dataLancamento": "2017-10-27",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/612880/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/612880",
+    "generos": [
+      "FPS",
+      "Ação",
+      "História Alternativa"
+    ],
+    "metacriticCritics": 86,
+    "metacriticUsers": 7.3,
+    "premios": [
+      {
+        "ano": 2017,
+        "organizacao": "The Game Awards",
+        "titulo": "Melhor Jogo de Ação"
+      }
+    ]
+  },
+  {
+    "titulo": "Devil May Cry 4 Special Edition",
+    "descricao": "Uma versão aprimorada do clássico hack and slash, permitindo que os jogadores controlem Nero, Dante e três novos personagens jogáveis.",
+    "desenvolvedora": "Capcom",
+    "publicadora": "Capcom",
+    "dataLancamento": "2015-06-23",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/329050/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/329050",
+    "generos": [
+      "Hack and Slash",
+      "Ação",
+      "Combate Estilizado"
+    ],
+    "metacriticCritics": 73,
+    "metacriticUsers": 8.3,
+    "premios": null
+  },
+  {
+    "titulo": "Nioh 2 – The Complete Edition",
+    "descricao": "Um RPG de ação desafiador ambientado no Japão da era Sengoku, onde o jogador é um guerreiro meio-humano, meio-Yokai, lutando contra demônios.",
+    "desenvolvedora": "Team Ninja",
+    "publicadora": "Koei Tecmo",
+    "dataLancamento": "2021-02-05",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1325200/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1325200",
+    "generos": [
+      "RPG de Ação",
+      "Souls-like",
+      "Fantasia Sombria"
+    ],
+    "metacriticCritics": 86,
+    "metacriticUsers": 8.1,
+    "premios": null
+  },
+  {
+    "titulo": "Dishonored 2",
+    "descricao": "Sequência do aclamado jogo de stealth, permitindo aos jogadores escolher entre Corvo Attano ou Emily Kaldwin, com poderes sobrenaturais únicos, para recuperar o trono.",
+    "desenvolvedora": "Arkane Studios",
+    "publicadora": "Bethesda Softworks",
+    "dataLancamento": "2016-11-11",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/403640/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/403640",
+    "generos": [
+      "Stealth",
+      "Immersive Sim",
+      "Ação"
+    ],
+    "metacriticCritics": 86,
+    "metacriticUsers": 7.5,
+    "premios": [
+      {
+        "ano": 2017,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Design Original de Jogo"
+      }
+    ]
+  },
+  {
+    "titulo": "Wasteland 3",
+    "descricao": "Um RPG tático baseado em esquadrão ambientado em um Colorado pós-apocalíptico congelado, onde os jogadores assumem o papel de 'Desert Rangers'.",
+    "desenvolvedora": "inXile Entertainment",
+    "publicadora": "Deep Silver",
+    "dataLancamento": "2020-08-28",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/719000/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/719000",
+    "generos": [
+      "RPG Tático",
+      "Pós-apocalíptico",
+      "Estratégia"
+    ],
+    "metacriticCritics": 85,
+    "metacriticUsers": 7.9,
+    "premios": null
+  },
+  {
+    "titulo": "Star Wars Battlefront II (2017)",
+    "descricao": "Um jogo de tiro multijogador ambientado no universo Star Wars, apresentando batalhas nas três eras da saga, além de uma campanha single-player.",
+    "desenvolvedora": "EA DICE",
+    "publicadora": "Electronic Arts",
+    "dataLancamento": "2017-11-17",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/1237950/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/1237950",
+    "generos": [
+      "FPS",
+      "Multijogador",
+      "Ficção Científica"
+    ],
+    "metacriticCritics": 68,
+    "metacriticUsers": 3.4,
+    "premios": null
+  },
+  {
+    "titulo": "Max Payne 2: The Fall of Max Payne",
+    "descricao": "Um thriller neo-noir onde o detetive Max Payne se envolve em uma espiral de morte e traição após reencontrar a fatal Mona Sax.",
+    "desenvolvedora": "Remedy Entertainment",
+    "publicadora": "Rockstar Games",
+    "dataLancamento": "2003-10-15",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/205710/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/205710",
+    "generos": [
+      "Tiro em Terceira Pessoa",
+      "Neo-Noir",
+      "Bullet Time"
+    ],
+    "metacriticCritics": 86,
+    "metacriticUsers": 8.3,
+    "premios": [
+      {
+        "ano": 2004,
+        "organizacao": "BAFTA Games Awards",
+        "titulo": "Melhor Jogo de PC"
+      }
+    ]
+  },
+  {
+    "titulo": "Dragon's Dogma 2",
+    "descricao": "Um RPG de ação e fantasia baseado em narrativa para um jogador, onde a IA dos 'Pawns' permite uma experiência de combate e exploração cooperativa única.",
+    "desenvolvedora": "Capcom",
+    "publicadora": "Capcom",
+    "dataLancamento": "2024-03-22",
+    "steamImage": "https://cdn.cloudflare.steamstatic.com/steam/apps/2054970/header.jpg",
+    "steamLink": "https://store.steampowered.com/app/2054970",
+    "generos": [
+      "RPG de Ação",
+      "Mundo Aberto",
+      "Fantasia"
+    ],
+    "metacriticCritics": 87,
+    "metacriticUsers": 6.3,
+    "premios": null
+  }
+]

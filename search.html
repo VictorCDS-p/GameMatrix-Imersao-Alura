@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Busca - GameMatrix</title>
+    <link rel="icon" href="./assets/logo-image.png">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/search-styles.css">
+</head>
+
+<body>
+    <header>
+        <div class="header-content">
+            <h1 class="logo"><a href="index.html"><img src="./assets/logo.png" alt="GameMatrix Logo"></a></h1>
+            <div class="search-container">
+                <form action="search.html" method="get" class="search-form">
+                    <input type="search" id="search-input" name="q" placeholder="Digite o nome de um jogo..."
+                        aria-label="Digite o nome de um jogo...">
+                    <button type="submit" id="botao-busca">Buscar</button>
+
+                </form>
+            </div>
+        </div>
+    </header>
+    <main class="search-main" aria-label="Conteúdo principal">
+        <aside class="filter-sidebar">
+            <h2>Filtros</h2>
+            <div id="text-filter-container"></div>
+            <div id="genre-filter-container"></div>
+            <div id="year-filter-container"></div>
+            <div id="awards-filter-container"></div>
+            <div id="sort-order-container"></div>
+        </aside>
+        <section class="card-container">
+            <!-- Os cards dos jogos serão inseridos aqui pelos scripts -->
+        </section>
+        <div class="pagination-container" id="pagination-container" aria-label="Navegação de página">
+            <!-- Controles de paginação serão inseridos aqui -->
+        </div>
+    </main>
+    <footer>
+        <div class="footer">
+            <nav aria-label="Links do rodapé">
+                <ul class="footer-links">
+                    <li><a href="https://www.alura.com.br" target="_blank" rel="noopener noreferrer">Alura</a>
+                    </li>
+                    <li><a href="https://github.com/VictorCDS-p" target="_blank" rel="noopener noreferrer">GitHub</a>
+                    </li>
+                    <li><a href="https://www.linkedin.com/in/victorfcardosos" target="_blank"
+                            rel="noopener noreferrer">LinkedIn</a></li>
+                </ul>
+            </nav>
+        </div>
+    </footer>
+
+    <script src="./js/search.js"></script>
+</body>
+
+</html>

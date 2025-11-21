@@ -1,0 +1,152 @@
+/* Estilos para a seção de apresentação (Hero) */
+.hero-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: var(--text-primary-color);
+    padding: 50px 20px;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 30px;
+
+}
+
+
+
+
+.hero-section h2 {
+    margin-bottom: 15px;
+    font-size: 2.5em;
+}
+
+.hero-section img {
+    width: 200px;
+    margin-left: 300px;
+}
+
+
+.content {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.main-card {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+
+
+
+/* Estilos para a seção de funcionalidades */
+.features-section {
+    margin-bottom: 30px;
+    padding: 20px;
+    /* Mantém o padding específico */
+    border-radius: 8px;
+}
+
+.features-section h3 {
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 2em;
+}
+
+.feature-item {
+    background-color: var(--card-bg-color);
+    /* Usando variável */
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    border-left: 4px solid #007bff;
+    max-width: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.feature-item img {
+    height: 50px;
+    width: auto;
+    margin-bottom: 20px;
+}
+
+
+/* Destaque azul */
+
+
+.feature-item h4 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #00aaff;
+    text-align: center;
+}
+
+.feature-item:hover {
+    transform: scale(1.01); 
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+}
+
+/* Estilos para a seção de chamada para ação (Call to Action) */
+.cta-section {
+    text-align: center;
+    padding: 40px 20px;
+    /* background-color: #2a2a2a; */
+    border-radius: 8px;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: #007bff;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    margin-top: 15px;
+    color: var(--text-primary-color);
+    /* Usando variável */
+}
+
+.cta-button:hover {
+    background-color: #0056b3;
+}
+
+/* Estilos para a nova seção 'Sobre' na index.html */
+.about-section {
+    padding: 2rem 4rem;
+    text-align: center;
+    max-width: 900px;
+    margin: 4rem auto;
+}
+
+.about-section h2 {
+    font-size: 2.5rem;
+    color: var(--highlight-color);
+    margin-bottom: 1.5rem;
+}
+
+.about-section p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+
+.highlight {
+    color: #00ffff;
+    /* Ciano */
+}
+
+.feature-item a.highlight {
+    text-decoration: none;
+}
+
+.feature-item a.highlight:hover {
+    opacity: 0.8;
+    transition: opacity 0.2s ease-in-out;
+
+}
