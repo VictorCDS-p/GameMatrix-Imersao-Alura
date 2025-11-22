@@ -18,9 +18,10 @@ A aplicação foi criada para demonstrar habilidades de desenvolvimento front-en
 *   **Ordenação:** Organize os resultados por relevância, nota da crítica ou data de lançamento.
 *   **Paginação:** Navegue facilmente por grandes volumes de resultados.
 *   **Cards Detalhados:** Visualize informações essenciais de cada jogo em um layout claro e organizado, com link direto para a página da Steam.
-
 ---
-![GameMatrix Gif](</assets/showing-page.gif>)
+![GameMatrix Gif1](</assets/showing-page1.gif>)
+
+![GameMatrix Gif2](</assets/showing-page2.gif>)
 
 ## 🚀 Tecnologias Utilizadas
 
