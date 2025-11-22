@@ -71,7 +71,8 @@ Por ser um projeto front-end estático, você pode executá-lo facilmente em sua
 2.  **Abra o arquivo `index.html`:**
     Navegue até a pasta do projeto e abra o arquivo `index.html` diretamente no seu navegador de preferência.
 
-    *Dica: Para uma melhor experiência, utilize a extensão "Live Server" no Visual Studio Code, que evita problemas com requisições locais (CORS) ao carregar o arquivo `data.json`.*
+    *Dica: Para uma melhor experiência, utilize a extensão **"Live Server"** no Visual Studio Code, que evita problemas com requisições locais (CORS) ao carregar o arquivo `data.json`.  
+    Ou acesse diretamente a versão online do projeto: https://victorcds-p.github.io/GameMatrix-Imersao-Alura/*
 
 ---
 
