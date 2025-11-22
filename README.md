@@ -1,121 +1,87 @@
----
+# GameMatrix 🎮
 
-# 🟦 **README – Imersão Dev com Alura e Google**
+## Sobre o Projeto
 
-# 🎮 **GameMatrix**
+GameMatrix é uma plataforma web interativa desenvolvida como parte da 10ª Edição da Imersão Dev da Alura. O projeto consiste em uma interface para explorar, pesquisar e filtrar uma vasta coleção de jogos de videogame, exibindo informações detalhadas como desenvolvedora, notas da crítica, prêmios e muito mais.
 
-Catálogo digital de jogos desenvolvido para a **Imersão Dev com Alura e Google 2025**.
+A aplicação foi criada para demonstrar habilidades de desenvolvimento front-end, manipulação de dados com JavaScript e a criação de uma experiência de usuário rica e funcional.
 
-> “Estou participando da seleção dos melhores projetos da Imersão Dev com Alura e Google.”
+![GameMatrix Screenshot](https://i.imgur.com/URL-DA-IMAGEM-AQUI.png) 
+*Substitua o link acima por uma captura de tela da sua aplicação.*
 
----
+### ✨ Funcionalidades
 
-## 📌 **Sobre o Projeto**
-
-O **GameMatrix** é uma aplicação web estática que funciona como uma base de dados interativa de jogos digitais.
-Seu objetivo é permitir que usuários busquem, filtrem e explorem uma coleção de títulos de forma rápida e intuitiva, seguindo os critérios do desafio de front-end da Imersão.
-
-A proposta demonstra domínio de:
-
-* HTML semântico
-* CSS organizado e modular
-* JavaScript para manipulação de dados e interface
-* Estrutura limpa, clara e facilmente escalável
+*   **Busca Dinâmica:** Pesquise jogos instantaneamente pelo título.
+*   **Filtros Avançados:** Refine a busca por:
+    *   Gênero
+    *   Ano de lançamento
+    *   Premiações recebidas
+*   **Ordenação:** Organize os resultados por relevância, nota da crítica ou data de lançamento.
+*   **Paginação:** Navegue facilmente por grandes volumes de resultados.
+*   **Cards Detalhados:** Visualize informações essenciais de cada jogo em um layout claro e organizado, com link direto para a página da Steam.
 
 ---
 
-## 🎯 **Funcionalidades**
+## 🚀 Tecnologias Utilizadas
 
-* 🔍 **Busca por título** com resposta imediata
-* 🏷️ **Filtros por gênero, data de lançamento e prêmios**
-* 🗂️ **Carregamento dinâmico** de dados via JSON
-* ⭐ **Página com informações completas do jogo**, incluindo:
+O projeto foi construído utilizando tecnologias web modernas e focadas no front-end:
 
-  * descrição
-  * gêneros
-  * publicadora / desenvolvedora
-  * notas (Metacritic)
-  * prêmios
-  * link direto para a Steam
-* 🖼️ Imagens de capa por links públicos
-* 📄 Navegação simples entre páginas estáticas
+*   **HTML5:** Para a estrutura semântica da aplicação.
+*   **CSS3:** Para estilização, layout responsivo e a criação da interface.
+*   **JavaScript (ES6+):** Para toda a lógica de busca, filtragem, ordenação e manipulação dinâmica do DOM.
+*   **JSON:** Como banco de dados para armazenar as informações dos jogos.
 
 ---
 
-## 🧠 **Tecnologias Utilizadas**
+## 📂 Estrutura de Arquivos
 
-* **HTML5**
-* **CSS3**
-* **JavaScript (Vanilla)**
-* **JSON**
-* **GitHub Pages** (deploy)
-
----
-
-## 🗂️ **Estrutura do Repositório**
+O projeto está organizado da seguinte forma para manter a clareza e a manutenibilidade:
 
 ```
-/
-├── index.html
-├── pages/
-│   └── search.html
-├── styles/
+/GameMatrix
+├── assets/
+│   ├── logo.png
+│   └── logo-image.png
+├── css/
 │   ├── global.css
-│   ├── home-styles.css
-│   ├── search-styles.css
-│   └── styles.css
+│   └── search-styles.css
 ├── data/
 │   └── data.json
-└── js/
-    └── search.js
+├── js/
+│   └── search.js
+├── pages/
+│   └── search.html
+├── index.html
+└── README.md
 ```
 
 ---
 
-## ✨ **Critérios Atendidos (Regulamento)**
+## 🏃 Como Executar
 
-### ✔ Utilidade
+Por ser um projeto front-end estático, você pode executá-lo facilmente em sua máquina local:
 
-Ferramenta funcional para consulta e navegação por um catálogo de jogos.
+1.  **Clone o repositório:**
+    ```bash
+    git clone https://github.com/seu-usuario/seu-repositorio.git
+    ```
 
-### ✔ Criatividade
+2.  **Abra o arquivo `index.html`:**
+    Navegue até a pasta do projeto e abra o arquivo `index.html` diretamente no seu navegador de preferência.
 
-Design inspirado em interfaces de plataformas modernas, com foco em clareza e experiência do usuário.
-
-### ✔ Eficácia
-
-Busca, filtros e carregamento de dados funcionando de forma direta, sem dependências externas.
-
-### ✔ Apresentação
-
-Código organizado, responsivo, documentado e publicado de modo acessível.
+    *Dica: Para uma melhor experiência, utilize a extensão "Live Server" no Visual Studio Code, que evita problemas com requisições locais (CORS) ao carregar o arquivo `data.json`.*
 
 ---
 
-## 📝 **Acesso ao Projeto**
+## ⚖️ Autorização de Uso
 
-🔗 **Repositório no GitHub:**
-*adicione seu link aqui*
-
-🔗 **Projeto publicado no GitHub Pages:**
-*adicione seu link aqui*
-
-🔗 **Post do LinkedIn exigido pelo regulamento:**
-*adicione seu link aqui*
+A autorização é concedida gratuitamente pelo estudante às Empresas, que poderão utilizar o projeto, nome, imagem e colocação a qualquer tempo e em qualquer meio, para as finalidades que desejarem tais como, mas não se limitando, a divulgação do resultado, publicações em suas redes sociais e divulgação de eventos futuros.
 
 ---
 
-## 👤 **Autor**
+## 👨‍💻 Autor
 
-**Victor Cardoso**
-Projeto desenvolvido para a **Imersão Dev com Alura e Google 2025**.
+Desenvolvido por **Victor Cardoso** como parte da Imersão Dev da Alura.
 
----
-
-## 📢 **Observação**
-
-Este projeto segue todas as orientações definidas no regulamento da Imersão e está publicado de forma aberta para avaliação.
-
----
-
-Só pedir!
+*   LinkedIn
+*   GitHub
