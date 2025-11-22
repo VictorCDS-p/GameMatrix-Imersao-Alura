@@ -65,7 +65,7 @@ Por ser um projeto front-end estático, você pode executá-lo facilmente em sua
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/VictorCDS-p/GameMatrix-Imersao-Alura.git
     ```
 
 2.  **Abra o arquivo `index.html`:**
@@ -75,15 +75,9 @@ Por ser um projeto front-end estático, você pode executá-lo facilmente em sua
 
 ---
 
-## ⚖️ Autorização de Uso
-
-A autorização é concedida gratuitamente pelo estudante às Empresas, que poderão utilizar o projeto, nome, imagem e colocação a qualquer tempo e em qualquer meio, para as finalidades que desejarem tais como, mas não se limitando, a divulgação do resultado, publicações em suas redes sociais e divulgação de eventos futuros.
-
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido por **Victor Cardoso** como parte da Imersão Dev da Alura.
 
-*   LinkedIn
-*   GitHub
+*   [🔗 LinkedIn](https://www.linkedin.com/in/victorfcardosos)
+*   [🐙 GitHub](https://github.com/VictorCDS-p)
