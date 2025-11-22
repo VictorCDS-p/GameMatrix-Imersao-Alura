@@ -6,8 +6,8 @@ GameMatrix é uma plataforma web interativa desenvolvida como parte da 10ª Edi�
 
 A aplicação foi criada para demonstrar habilidades de desenvolvimento front-end, manipulação de dados com JavaScript e a criação de uma experiência de usuário rica e funcional.
 
-![GameMatrix Screenshot](</assets/homepage.png>) 
-
+![GameMatrix Screenshot](</assets/homepage.png>)
+---
 ### ✨ Funcionalidades
 
 *   **Busca Dinâmica:** Pesquise jogos instantaneamente pelo título.
