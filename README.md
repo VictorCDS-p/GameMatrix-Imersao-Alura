@@ -61,7 +61,7 @@ O projeto está organizado da seguinte forma para manter a clareza e a manutenib
 
 ## 🏃 Como Executar
 
-Por ser um projeto front-end estático, você pode executá-lo facilmente em sua máquina local:
+Você pode executá-lo facilmente em sua máquina local:
 
 1.  **Clone o repositório:**
     ```bash
