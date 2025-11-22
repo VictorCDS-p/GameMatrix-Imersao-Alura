@@ -181,6 +181,11 @@ function updateActiveFilters() {
     activeFilters.awards = awardsFilterSelect.value;
     activeFilters.sort = sortOrderSelect.value;
 }
+function syncSearchInputs(sourceElement, targetElement) {
+    if (targetElement.value !== sourceElement.value) {
+        targetElement.value = sourceElement.value;
+    }
+}
 
 function handleFilterChange() {
     updateActiveFilters();
@@ -264,6 +269,7 @@ async function initializeApp() {
     const yearFilterContainer = document.querySelector("#year-filter-container");
     const awardsFilterContainer = document.querySelector("#awards-filter-container");
     const sortOrderContainer = document.querySelector("#sort-order-container");
+    const clearFilterContainer = document.querySelector("#clear-filter-container");
 
     try {
         const response = await fetch('../data/data.json');
@@ -274,6 +280,22 @@ async function initializeApp() {
         yearFilterSelect = populateYearFilter(allGamesData, yearFilterContainer);
         awardsFilterSelect = populateAwardsFilter(awardsFilterContainer);
         sortOrderSelect = populateSortOrderFilter(sortOrderContainer);
+
+        const clearButton = document.createElement('button');
+        clearButton.textContent = 'Limpar Filtros';
+        clearButton.id = 'clear-filters-btn';
+        clearButton.className = 'button';
+        clearFilterContainer.appendChild(clearButton);
+
+        clearButton.addEventListener('click', () => {
+            searchInput.value = '';
+            document.querySelector("#sidebar-search-input").value = '';
+            genreFilterSelect.value = 'all';
+            yearFilterSelect.value = 'all';
+            awardsFilterSelect.value = 'all';
+            sortOrderSelect.value = 'title-asc';
+            handleFilterChange();
+        });
 
         const urlParams = new URLSearchParams(window.location.search);
         const queryFromUrl = urlParams.get('q');
@@ -288,7 +310,7 @@ async function initializeApp() {
         renderContent(true);
 
         const handleSearch = () => {
-            if (sidebarSearchInput) sidebarSearchInput.value = searchInput.value;
+            syncSearchInputs(searchInput, sidebarSearchInput);
             handleFilterChange();
         };
 

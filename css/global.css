@@ -103,12 +103,11 @@ header {
     transition: background-color 0.2s ease, color 0.2s ease;
     background-color: var(--highlight-color);
     color: var(--bg-color);
-    border: 1px solid var(--highlight-color);
+    border: 1px solid var(--link-color);
 }
 
 #botao-busca:hover {
     background-color: #8ED8F8;
-    /* Cor de fundo no hover */
     border-color: #8ED8F8;
 }
 

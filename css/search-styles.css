@@ -21,11 +21,25 @@
     margin-bottom: 1.5rem;
 }
 
-.filter-sidebar h4 {
+#filter-sidebar h4 {
     margin-top: 0;
     margin-bottom: 0.75rem;
     font-size: 1rem;
     color: var(--highlight-color);
+}
+
+#clear-filters-btn {
+    padding: 15px 30px;
+    margin-top: 15px;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    color: var(--text-primary-color);
+    background-color: #007bff;
+    transition: background-color 0.3s ease;
+    max-width: 200px;
+    height: auto;
 }
 
 .filter-sidebar select,
@@ -42,6 +56,31 @@
 .card-container {
     flex-grow: 1;
     grid-area: cards;
+}
+
+#clear-filters-btn {
+    padding: 15px 30px;
+    margin-top: 15px;
+    display: block;
+    width: 250px;
+    margin: 10px auto 0;
+    padding: 15px 0;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    color: var(--text-primary-color);
+    background-color: #007bff;
+    transition: background-color 0.3s ease;
+    height: 55px;
+}
+
+
+#clear-filters-btn:hover {
+    background-color: #0056b3;
+        cursor: pointer;
+
 }
 
 article {
