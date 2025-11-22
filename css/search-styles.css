@@ -1,100 +1,79 @@
-/* Layout da página de busca */
-main {
-    display: flex;
-    gap: 2rem;
-    padding: 2rem;
-}
-
 .filter-sidebar {
     width: 300px;
     flex-shrink: 0;
-    background-color: var(--card-bg-color);
-    /* Usando variável */
     padding: 1.5rem;
     border-radius: 8px;
     height: fit-content;
-    /* Ajusta a altura ao conteúdo */
     position: sticky;
     top: 2rem;
-    /* Mantém um espaçamento do topo */
+    background-color: var(--card-bg-color);
+    grid-area: sidebar;
 }
 
 .filter-sidebar h2 {
     margin-top: 0;
-    border-bottom: 2px solid var(--highlight-color);
-    /* Usando variável */
-    padding-bottom: 0.5rem;
     margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--highlight-color);
 }
 
 .filter-sidebar div {
-    /* Contêiner de cada filtro */
     margin-bottom: 1.5rem;
 }
 
 .filter-sidebar h4 {
-    /* Título de cada filtro (Gênero, Ano, etc.) */
     margin-top: 0;
     margin-bottom: 0.75rem;
     font-size: 1rem;
-    /* Mantém o tamanho da fonte */
     color: var(--highlight-color);
-    /* Usando variável */
 }
 
 .filter-sidebar select,
 .filter-sidebar input[type="text"],
 .filter-sidebar input[type="checkbox"] {
     width: 100%;
-    background-color: var(--bg-color);
-    /* Usando variável */
-    color: var(--text-primary-color);
-    /* Usando variável */
-    border: 1px solid var(--highlight-color);
-    /* Usando variável */
     padding: 0.5rem;
+    border: 1px solid var(--highlight-color);
     border-radius: 4px;
+    background-color: var(--bg-color);
+    color: var(--text-primary-color);
 }
 
 .card-container {
     flex-grow: 1;
-}
-
-.genres {
-    text-align: center;
-    margin-top: 15px;
-
+    grid-area: cards;
 }
 
 article {
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
 
+article h2,
+article a,
+.genres {
+    margin-top: 15px;
+    text-align: center;
 }
 
 article h2 {
-    text-align: center;
     margin-top: 15px;
-
+    text-align: center;
 }
 
 article a {
-    text-align: center;
     margin-top: 15px;
-
+    text-align: center;
 }
 
-
-
-/* Estilos para informações adicionais no card */
 .card .metacritic-scores {
     display: flex;
     justify-content: space-around;
     margin: 1rem 0;
-    background-color: #1B2838;
     padding: 0.5rem;
     border-radius: 4px;
+    background-color: #1B2838;
 }
 
 .card .score {
@@ -102,9 +81,9 @@ article a {
 }
 
 .card .score span {
+    font-size: 1.2rem;
     font-weight: bold;
     color: var(--highlight-color);
-    font-size: 1.2rem;
 }
 
 .card .awards-list {
@@ -116,20 +95,13 @@ article a {
 
 .search-main {
     display: grid;
-    /* Sidebar e conteúdo principal */
     grid-template-areas:
         "sidebar cards"
         "sidebar pagination";
     gap: 20px;
     padding: 20px;
-}
-
-.filter-sidebar {
-    grid-area: sidebar;
-}
-
-.card-container {
-    grid-area: cards;
+    gap: 2rem;
+    padding: 2rem;
 }
 
 .pagination-container {
@@ -142,25 +114,25 @@ article a {
 }
 
 .pagination-container button {
-    background-color: #2a2a2a;
-    color: #e0e0e0;
-    border: 1px solid #444;
     padding: 8px 14px;
-    cursor: pointer;
+    border: 1px solid #444;
     border-radius: 4px;
+    cursor: pointer;
+    color: #e0e0e0;
+    background-color: #2a2a2a;
     transition: background-color 0.3s, color 0.3s;
 }
 
 .pagination-container button:hover:not(:disabled) {
-    background-color: #007bff;
     color: #fff;
+    background-color: #007bff;
 }
 
 .pagination-container button.active {
-    background-color: #007bff;
-    color: #ffffff;
-    border-color: #0056b3;
     font-weight: bold;
+    color: #ffffff;
+    background-color: #007bff;
+    border-color: #0056b3;
 }
 
 .pagination-container button:disabled {

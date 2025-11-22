@@ -1,27 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
-/* Importa a fonte Montserrat do Google Fonts */
 
 * {
     box-sizing: border-box;
-    /* Garante que padding e border não aumentem o tamanho total do elemento */
 }
 
 :root {
-    /* Paleta Steam (GameMatrix Edition) */
     --bg-color: #171A21;
-    /* Primária (fundo escuro) */
     --card-bg-color: #1B2838;
-    /* Secundária (cards, menus) */
     --highlight-color: #66C0F4;
-    /* Destaques */
     --text-primary-color: #FFFFFF;
-    /* Texto principal */
     --text-secondary-color: #C7D5E0;
-    /* Texto secundário */
     --link-color: #007bff;
-    /* Cor para links, como o cta-button */
-
-    /* Cores complementares para ratings */
     --rating-high: #8EEA8C;
     --rating-medium: #E1C07B;
     --rating-low: #D64D4D;
@@ -29,45 +18,28 @@
 
 body {
     margin: 0;
-    display: flex;
-    align-items: start;
-    /* Remove a margem padrão do body */
     background: var(--bg-color);
-    /* Define a cor de fundo usando uma variável */
     color: var(--text-primary-color);
-    /* Define a cor do texto padrão usando uma variável */
     font-family: "Montserrat", sans-serif;
-    /* Define a família da fonte */
     display: flex;
-    /* Usa Flexbox para o layout */
     flex-direction: column;
-    /* Organiza os filhos em coluna */
     min-height: 100vh;
-    /* Garante que o body ocupe no mínimo toda a altura da tela */
 }
 
 header {
     display: flex;
     justify-content: space-around;
     padding: 2rem 1rem;
-    /* Espaçamento interno (2rem em cima/baixo, 1rem nos lados) */
-    /* Habilita o layout flexbox */
-    /* position: sticky; /* Mantém o cabeçalho fixo no topo ao rolar a página */
-    /* top: 0; Posição do topo quando sticky */
     background: var(--bg-color);
-    /* Cor de fundo do cabeçalho */
     z-index: 100;
-    /* Define a ordem de empilhamento para ficar sobre outros elementos */
     border-bottom: 1px solid var(--bg-color);
-    /* Adiciona uma borda inferior */
     gap: 1rem;
-    /* Espaçamento entre os elementos flex */
 }
 
 .header-content {
     display: flex;
     align-items: center;
-    flex-direction: row;
+    justify-content: space-between;
     width: 100%;
     max-width: 80rem;
     margin: 0 auto;
@@ -82,100 +54,56 @@ header {
 
 
 .logo {
-    font-size: 1.5rem;
-    /* Tamanho da fonte */
     margin: 0;
-    /* Remove a margem padrão */
-    font-weight: 700;
-    /* Peso da fonte (bold) */
-    white-space: nowrap;
-    /* Impede a quebra de linha do texto */
 }
 
 .logo img {
     max-width: 200px;
-    /* Ajuste este valor conforme necessário */
-    padding: rem;
 }
 
 .search-form {
-    margin-left: 550px;
     display: flex;
-    /* Alinha os elementos na mesma linha */
+    align-items: center;
+    gap: 0.5rem;
 }
 
-.search-form,
-button {
-    gap: 5px;
-}
-
-
-div input {
+.search-form input {
     padding: 0.375rem 0.75rem;
-    /* Espaçamento interno */
     border-radius: 1rem;
-    /* Arredonda as bordas */
     border: 1px solid var(--card-bg-color);
-    /* Define a borda */
     background: var(--card-bg-color);
-    /* Cor de fundo */
     font-family: inherit;
-    /* Herda a família da fonte do elemento pai */
     font-size: 1.5rem;
-    /* Tamanho da fonte */
     transition: all 0.2s ease;
-    /* Adiciona uma transição suave para todas as propriedades */
     width: 30rem;
-    /* Largura do input */
     color: var(--text-primary-color);
-    /* Cor do texto digitado */
-    margin-right: .5rem;
-    /* Margem à direita */
 }
 
-div input::placeholder {
+.search-form input::placeholder {
     font-size: 1.2rem;
-    /* Tamanho da fonte do placeholder */
     font-weight: 400;
-    /* Peso da fonte do placeholder */
     color: var(--text-secondary-color);
-    /* Cor do texto do placeholder */
 }
 
-div input:focus {
+.search-form input:focus {
     outline: none;
-    /* Remove a borda de foco padrão */
     border-color: var(--highlight-color);
-    /* Muda a cor da borda ao focar */
     box-shadow: 0 0 0 0.1rem var(--highlight-color);
-    /* Adiciona uma sombra de caixa para indicar foco */
 }
 
 #botao-busca {
     padding: 1rem 2rem;
-    /* Espaçamento interno */
     border-radius: 1rem;
-    /* Arredonda as bordas */
     border: none;
-    /* Remove a borda padrão */
     cursor: pointer;
-    /* Muda o cursor para uma mão ao passar por cima */
     font-family: inherit;
-    /* Herda a família da fonte */
     font-weight: 700;
-    /* Peso da fonte */
     font-size: 1rem;
-    /* Tamanho da fonte */
     white-space: nowrap;
-    /* Impede a quebra de linha do texto */
     transition: background-color 0.2s ease, color 0.2s ease;
-    /* Transição suave para cor de fundo e cor do texto */
     background-color: var(--highlight-color);
-    /* Cor de fundo */
     color: var(--bg-color);
-    /* Cor do texto */
     border: 1px solid var(--highlight-color);
-    /* Adiciona uma borda */
 }
 
 #botao-busca:hover {
@@ -186,23 +114,16 @@ div input:focus {
 
 #botao-busca:active {
     transform: scale(0.98);
-    /* Efeito de clique (diminui o tamanho) */
 }
 
 main {
     display: flex;
     flex-direction: column;
-    /* overflow-y: scroll; Adiciona uma barra de rolagem vertical se o conteúdo exceder a altura */
     flex-grow: 1;
-    /* Faz o main crescer para ocupar o espaço disponível */
     max-width: 80rem;
-    /* Largura máxima do conteúdo principal */
     margin: 0 auto;
-    /* Centraliza o conteúdo principal horizontalmente */
     margin-top: 2rem;
-    /* Margem no topo */
     width: 100%;
-    /* Garante que o main ocupe a largura total para centralização funcionar */
 }
 
 .search-main {
@@ -211,94 +132,57 @@ main {
 
 article {
     background: linear-gradient(var(--card-bg-color), var(--bg-color));
-    /* Fundo com gradiente */
     border-radius: 8px;
-    /* Bordas arredondadas suaves */
     padding: 1.5rem;
-    /* Espaçamento interno */
     margin-bottom: 1.25rem;
-    /* Margem inferior */
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-    /* Sombra suave */
     transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-    /* Transição suave */
     border-bottom: none;
-    /* Remove a borda inferior */
 }
 
-article:hover {
-    transform: scale(1.01);
-    /* Aumenta ligeiramente o tamanho ao passar o mouse */
-    cursor: pointer;
-    /* Muda o cursor para uma mão */
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
-}
-
+article:hover,
 feat:hover {
     transform: scale(1.01);
-    /* Aumenta ligeiramente o tamanho ao passar o mouse */
     cursor: pointer;
-    /* Muda o cursor para uma mão */
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
 }
 
 article h2 {
     margin-top: 0;
-    /* Remove a margem superior */
     font-weight: 700;
-    /* Peso da fonte (bold) */
     font-size: 1.6rem;
-    /* Tamanho da fonte */
     border-bottom: none;
-    /* Sem borda inferior */
     padding-bottom: 0;
-    /* Sem espaçamento interno inferior */
     margin-bottom: 0.25rem;
-    /* Margem inferior */
     color: var(--text-primary-color);
-    /* Cor do texto */
 }
 
 article p {
     margin: 0.5rem 0;
-    /* Margem superior e inferior */
     line-height: 1.6;
-    /* Altura da linha para melhor legibilidade */
     font-size: 1rem;
-    /* Tamanho da fonte */
     color: var(--text-secondary-color);
-    /* Cor do texto */
 }
 
 article p strong {
     color: var(--text-secondary-color);
-    /* Cor do texto em negrito */
     font-weight: 700;
-    /* Peso da fonte */
 }
 
 article a {
     color: var(--highlight-color);
-    /* Cor do link */
     text-decoration: none;
-    /* Remove o sublinhado padrão */
     font-weight: 700;
-    /* Peso da fonte */
 }
 
 article a:hover {
     text-decoration: underline;
-    /* Adiciona sublinhado ao passar o mouse */
 }
 
 
 footer {
-    width: 100%;
-    /* Largura total */
     color: var(--text-secondary-color);
-    /* Cor do texto */
     background-color: var(--bg-color);
-    /* Cor de fundo */
     padding: 15px 20px;
     display: flex;
     align-items: center;
