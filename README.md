@@ -79,5 +79,5 @@ Por ser um projeto front-end estático, você pode executá-lo facilmente em sua
 
 Desenvolvido por **Victor Cardoso** como parte da Imersão Dev da Alura.
 
-<a href="https://www.linkedin.com/in/victorfcardosos" target="_blank">🔗 LinkedIn</a>  
-<a href="https://github.com/VictorCDS-p" target="_blank">🐙 GitHub</a>
+*   [🔗 LinkedIn](https://www.linkedin.com/in/victorfcardosos)
+*   [🐙 GitHub](https://github.com/VictorCDS-p)
