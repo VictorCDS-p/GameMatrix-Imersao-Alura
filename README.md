@@ -44,7 +44,9 @@ O projeto está organizado da seguinte forma para manter a clareza e a manutenib
 │   └── logo-image.png
 ├── css/
 │   ├── global.css
+│   └── home-styles.css
 │   └── search-styles.css
+│   └── styles.css
 ├── data/
 │   └── data.json
 ├── js/
