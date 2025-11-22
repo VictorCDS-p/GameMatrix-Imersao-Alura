@@ -1,60 +1,60 @@
-
+---
 
 # 🟦 **README – Imersão Dev com Alura e Google**
 
-```md
-# 🎮 GameMatrix  
-Projeto desenvolvido para a **Imersão Dev com Alura e Google 2025**
+# 🎮 **GameMatrix**
 
-“Estou participando da seleção dos melhores projetos da Imersão Dev com Alura e Google.”
+Catálogo digital de jogos desenvolvido para a **Imersão Dev com Alura e Google 2025**.
 
----
-
-## 📌 Sobre o Projeto
-
-O **GameMatrix** é um catálogo digital de jogos criado como aplicação web estática.  
-Ele oferece uma experiência simples e intuitiva para **buscar**, **filtrar** e **explorar** uma biblioteca de games organizada em um arquivo JSON.
-
-A ideia é demonstrar, de forma clara e objetiva, a construção de uma aplicação front-end com:
-
-- HTML semântico  
-- CSS modularizado  
-- JavaScript para manipulação da interface e dos dados  
-- Estrutura bem organizada e fácil de navegar  
+> “Estou participando da seleção dos melhores projetos da Imersão Dev com Alura e Google.”
 
 ---
 
-## 🎯 Funcionalidades
+## 📌 **Sobre o Projeto**
 
-- 🔍 **Busca rápida por título**
-- 🏷️ **Filtros por gênero, ano de lançamento e prêmios**
-- 🗂️ **Listagem dinâmica carregada via JSON**
-- ⭐ **Exibição detalhada de cada jogo**, incluindo:
-  - descrição  
-  - desenvolvedora / publicadora  
-  - gêneros  
-  - notas do Metacritic  
-  - prêmios  
-  - link para a Steam  
-- 🖼️ Imagens de capa obtidas por links públicos  
-- 📄 Navegação simples entre páginas estáticas  
+O **GameMatrix** é uma aplicação web estática que funciona como uma base de dados interativa de jogos digitais.
+Seu objetivo é permitir que usuários busquem, filtrem e explorem uma coleção de títulos de forma rápida e intuitiva, seguindo os critérios do desafio de front-end da Imersão.
+
+A proposta demonstra domínio de:
+
+* HTML semântico
+* CSS organizado e modular
+* JavaScript para manipulação de dados e interface
+* Estrutura limpa, clara e facilmente escalável
 
 ---
 
-## 🧠 Tecnologias Utilizadas
+## 🎯 **Funcionalidades**
 
-- **HTML5**  
-- **CSS3**  
-- **JavaScript**  
-- **JSON**  
-- **GitHub Pages** para publicação
+* 🔍 **Busca por título** com resposta imediata
+* 🏷️ **Filtros por gênero, data de lançamento e prêmios**
+* 🗂️ **Carregamento dinâmico** de dados via JSON
+* ⭐ **Página com informações completas do jogo**, incluindo:
+
+  * descrição
+  * gêneros
+  * publicadora / desenvolvedora
+  * notas (Metacritic)
+  * prêmios
+  * link direto para a Steam
+* 🖼️ Imagens de capa por links públicos
+* 📄 Navegação simples entre páginas estáticas
 
 ---
 
-## 🗂️ Estrutura do Repositório
+## 🧠 **Tecnologias Utilizadas**
+
+* **HTML5**
+* **CSS3**
+* **JavaScript (Vanilla)**
+* **JSON**
+* **GitHub Pages** (deploy)
+
+---
+
+## 🗂️ **Estrutura do Repositório**
 
 ```
-
 /
 ├── index.html
 ├── pages/
@@ -67,50 +67,55 @@ A ideia é demonstrar, de forma clara e objetiva, a construção de uma aplicaç
 ├── data/
 │   └── data.json
 └── js/
-└── search.js
-
+    └── search.js
 ```
 
 ---
 
-## ✨ Critérios Atendidos
+## ✨ **Critérios Atendidos (Regulamento)**
 
-### ✔ Utilidade  
-Catálogo funcional e prático para explorar uma lista de jogos.
+### ✔ Utilidade
 
-### ✔ Criatividade  
-Interface inspirada em portais de games, com organização clara e foco na experiência do usuário.
+Ferramenta funcional para consulta e navegação por um catálogo de jogos.
 
-### ✔ Eficácia  
-Filtros, buscas e carregamento de dados funcionando de forma direta e eficiente.
+### ✔ Criatividade
 
-### ✔ Apresentação  
-Projeto bem documentado, com código organizado e fácil compreensão.
+Design inspirado em interfaces de plataformas modernas, com foco em clareza e experiência do usuário.
 
----
+### ✔ Eficácia
 
-## 📝 Como acessar
+Busca, filtros e carregamento de dados funcionando de forma direta, sem dependências externas.
 
-🔗 **Repositório no GitHub:**  
-*Adicione seu link aqui*
+### ✔ Apresentação
 
-🔗 **Projeto publicado no GitHub Pages:**  
-*Adicione o link aqui*
-
-🔗 **Post no LinkedIn exigido pelo regulamento:**  
-*Adicione o link aqui*
+Código organizado, responsivo, documentado e publicado de modo acessível.
 
 ---
 
-## 👤 Autor
+## 📝 **Acesso ao Projeto**
 
-**Victor Cardoso**  
-Projeto desenvolvido durante a **Imersão Dev com Alura e Google 2025**.
+🔗 **Repositório no GitHub:**
+*adicione seu link aqui*
+
+🔗 **Projeto publicado no GitHub Pages:**
+*adicione seu link aqui*
+
+🔗 **Post do LinkedIn exigido pelo regulamento:**
+*adicione seu link aqui*
 
 ---
 
-## 📢 Observação importante
+## 👤 **Autor**
 
-Este projeto atende aos requisitos da seleção, está hospedado publicamente e segue as orientações do regulamento da Imersão.
+**Victor Cardoso**
+Projeto desenvolvido para a **Imersão Dev com Alura e Google 2025**.
 
 ---
+
+## 📢 **Observação**
+
+Este projeto segue todas as orientações definidas no regulamento da Imersão e está publicado de forma aberta para avaliação.
+
+---
+
+Só pedir!
