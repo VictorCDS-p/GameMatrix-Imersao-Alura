@@ -20,7 +20,7 @@ A aplicação foi criada para demonstrar habilidades de desenvolvimento front-en
 *   **Cards Detalhados:** Visualize informações essenciais de cada jogo em um layout claro e organizado, com link direto para a página da Steam.
 
 ---
-![GameMatrix Screenshot](</assets/homepage.png>)
+![GameMatrix Gif](</assets/showing-page.gif>)
 
 ## 🚀 Tecnologias Utilizadas
 
